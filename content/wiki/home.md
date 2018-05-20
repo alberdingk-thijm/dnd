@@ -18,6 +18,7 @@ Anything not referenced here can most likely be found there.
 * [Ability Scores](./wiki/characters/ability-scores.md)
 * [Races](./wiki/characters/races.md)
 * [Cleric](./wiki/characters/cleric.md)
+* [Druid](./wiki/characters/druid.md)
 * [Assassin](./wiki/characters/assassin.md)
 * [Bard](./wiki/characters/bard.md)
 * [Pregnancy](./wiki/pregnancy.md)
