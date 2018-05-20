@@ -16,5 +16,5 @@ build_search_index = true
 # Put all your custom variables here
 hyde_theme = "theme-base-08"
 hyde_links = [
-  {url = "https://github.com/alberdingk-thijm", name = "Github"},
+  {url = "https://alberdingk-thijm.github.io/dnd/wiki/home", name = "Wiki"},
 ]
