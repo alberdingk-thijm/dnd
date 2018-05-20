@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+  <head>
+    <title>{% block title %}{% endblock title %}</title>
+
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/wiki.css">
+
+    {% block head %}{% endblock head %}
+  </head>
+
+  <body>
+    <div class="container content">
+      <main>{% block main %}{% endblock main %}</main>
+      <div>{% block after_main %}{% endblock after_main %}</div>
+    </div>
+  </body>
+</html>
