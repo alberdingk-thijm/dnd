@@ -19,12 +19,14 @@ Anything not referenced here can most likely be found there.
 
 * [Ability Scores](./wiki/characters/ability-scores.md)
 * [Races](./wiki/characters/races.md)
+* [Skills](./wiki/characters/skills.md)
 
 ### Classes
 * [Assassin](./wiki/characters/assassin.md)
 * [Bard](./wiki/characters/bard.md)
 * [Cleric](./wiki/characters/cleric.md)
 * [Druid](./wiki/characters/druid.md)
+* [Fighter](./wiki/characters/fighter.md)
 
 ### Adventuring
 * [Equipment](./wiki/equipment.md)
