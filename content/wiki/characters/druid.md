@@ -18,7 +18,7 @@ Druids must have a wisdom of 12 or higher and a charisma of 15 or higher.
 Multi-classed druids must have a wisdom of 13 or higher.
 Druids with a wisdom and charisma of 16 or higher gain a 10% bonus to earned experience.
 
-Druids with a wisdom of 13 or more are entitled to bonus spells, as specified in [wisdom table II](./wiki/characters/ability-scores#wisdom).
+Druids with a wisdom of 13 or more are entitled to bonus spells, as specified in [wisdom table II](./wiki/characters/ability-scores).
 
 Druids do well with a high dexterity and constitution for combat purposes; a good strength is likewise of benefit.
 
