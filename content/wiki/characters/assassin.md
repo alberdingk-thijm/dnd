@@ -1,6 +1,7 @@
 +++
 title = "Assassin"
-date = 2018-05-19
+date = 2018-05-21
+tags = ["characters", "classes"]
 +++
 
 # Assassin
@@ -14,9 +15,14 @@ Assassins are considered a subclass of fighters, and hence gain strength and con
 ## Ability Scores
 
 Assassins' primary attribute is **strength**.
+
 Assassins must have a strength of 12 or higher, an intelligence of 11 or higher, and a dexterity of 12 or higher.
 Multi-classed assassins must have a dexterity of 15 or higher.
 Assassins do not receive experience point bonuses.
+
+Assassins are entitled to exceptional strength and to constitution bonuses.
+An assassin with an 18 strength is able to roll a d100 for exceptional strength and consult the [strength table](./wiki/characters/ability-scores#strength) for additional bonuses.
+For purposes of reducing or increasing an assassin's strength score, each percentile bracket counts as an additional point of strength: hence, an assassin with an 18/66 strength would become an assassin with an 18/01 strength upon losing one point of strength, or an assassin with an 18/76 strength upon gaining a point of strength (the exact percentile is irrelevant).
 
 As close quarters fighters, assassins benefit from a high constitution.
 
@@ -39,7 +45,7 @@ Assassins are not inherently **literate**.
 
 All assassins have the ability to **assassinate** an enemy, though they may also train in this skill.
 
-Skills available to assassins include **camelback riding**, **dog training**, **falconry**, **flying mounts**, **horseback riding**, **guile**, **assassination**, **interrogation**, **poisoning**, **unarmed combat**, **backstabbing**, **traps**, **perception** and **stealth**.
+Skills available to assassins include **camelback riding**, **dog training**, **falconry**, **flying mounts**, **horseback riding**, **guile**, **assassination**, **interrogation**, **poisoning**, **unarmed combat**, **athletics**, **backstabbing**, **traps**, **perception** and **stealth**.
 
 ## Experience Table
 

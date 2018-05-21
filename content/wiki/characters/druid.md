@@ -1,6 +1,7 @@
 +++
 title = "Druid"
-date = 2018-05-20
+date = 2018-05-21
+tags = ["characters", "classes"]
 +++
 
 # Druid
@@ -12,9 +13,12 @@ Druids manifest magical powers, like clerics, but these powers are attributed to
 ## Ability Scores
 
 Druids' primary attribute is **wisdom**.
+
 Druids must have a wisdom of 12 or higher and a charisma of 15 or higher.
 Multi-classed druids must have a wisdom of 13 or higher.
 Druids with a wisdom and charisma of 16 or higher gain a 10% bonus to earned experience.
+
+Druids with a wisdom of 13 or more are entitled to bonus spells, as specified in [wisdom table II](./wiki/characters/ability-scores#wisdom).
 
 Druids do well with a high dexterity and constitution for combat purposes; a good strength is likewise of benefit.
 
