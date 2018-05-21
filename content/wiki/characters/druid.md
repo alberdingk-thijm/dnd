@@ -40,7 +40,7 @@ Druids are not inherently **literate**.
 
 Druids are not trained in **riding**.
 
-Skills available to druids include **shapeshifting**, **nature languages**, **animal friendship**, **mountaineering**, **spelunking**, **woodcraft**, **sailing**, **swimming**, **farming**, **folklore**, **astronomy & astrology**, and **herbalism**.
+Skills available to druids include **shapeshifting**, **nature languages**, **animal friendship**, **geology**, **oceanography**, **animal biology**, **botany**, **astronomy**, **golemancy**, **alchemy** and **geography**.
 
 ## Experience Table
 
@@ -74,6 +74,10 @@ Druids are limited to 23 levels.
 </table>
 
 ## Spell Acquisition
+
+Druids gain bonus spells based on their **wisdom**.
+
+Druids must rest overnight and pray before recovering their spells.
 
 <table>
   <tr> <th rowspan="2">Druid Level</th> <th colspan="7">Spell Level</th> </tr>
