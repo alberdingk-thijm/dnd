@@ -1,7 +1,6 @@
 +++
 title = "Cleric"
 date = 2018-05-21
-tags = ["characters", "classes"]
 +++
 
 # Cleric
@@ -22,7 +21,7 @@ Clerics must have a wisdom of 9 or higher.
 Multi-classed clerics must have a wisdom of 13 or higher.
 Clerics with a wisdom of 16 or higher gain a 10% bonus to earned experience.
 
-Clerics with a wisdom of 13 or more are entitled to bonus spells, as specified in [wisdom table II](./wiki/characters/ability-scores).
+Clerics with a wisdom of 13 or more are entitled to bonus spells, as specified in [wisdom table II](./wiki/characters/ability-scores.md#wisdom-table-ii-adjustments-for-clerics).
 
 Clerics are capable combatants; high strength and constitution scores are also desirable.
 

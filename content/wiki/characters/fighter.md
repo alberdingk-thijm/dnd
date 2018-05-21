@@ -1,7 +1,6 @@
 +++
 title = "Fighter"
 date = 2018-05-21
-tags = ["characters", "classes"]
 +++
 
 # Fighter
@@ -19,7 +18,7 @@ Multi-classed fighters must have a strength of 13 or higher.
 Fighters with a strength of 16 or higher gain a 10% experience bonus.
 
 Fighters are entitled to exceptional strength and to constitution bonuses.
-A fighter with an 18 strength is able to roll a d100 for exceptional strength and consult the [strength table](./wiki/characters/ability-scores) for additional bonuses.
+A fighter with an 18 strength is able to roll a d100 for exceptional strength and consult the [strength table](./wiki/characters/ability-scores.md#strength-table-ii-ability-adjustments) for additional bonuses.
 For purposes of reducing or increasing a fighter's strength score, each percentile bracket counts as an additional point of strength: hence, a fighter with an 18/66 strength would become a fighter with an 18/01 strength upon losing one point of strength, or a fighter with an 18/76 strength upon gaining a point of strength (the exact percentile is irrelevant).
 
 Fighters with 17 constitution receive +3 hit points on each hit die.

@@ -12,6 +12,8 @@ theme = "hyde"
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
+render_tags_pages = false
+
 [extra]
 # Put all your custom variables here
 hyde_theme = "theme-base-08"
