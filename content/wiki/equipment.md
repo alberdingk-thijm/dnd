@@ -5,7 +5,9 @@ date = 2018-05-21
 
 # Equipment
 
-## Weapons Table I.: Weapon Information
+## Weapons
+
+### Weapons Table I.: Weapon Information
 
 <table>
 <tr><th>Weapon</th> <th>Weight</th> <th>Length</th> <th>Damage</th> <th>Hands</th> <th>Breaks</th> <th>Attack Method</th></tr>
@@ -40,7 +42,7 @@ date = 2018-05-21
 <tr><td>Quarterstaff</td> <td>5 lb.</td> <td>6'</td> <td>1d6</td> <td>both</td> <td>1 in 6</td> <td>hand-to-hand</td></tr>
 <tr><td>Scimitar</td> <td>4 lb.</td> <td>3'</td> <td>1d8</td> <td>one</td> <td>1 in 6</td> <td>hand-to-hand</td></tr>
 <tr><td>Sling</td> <td>4.8 oz.</td> <td>8"</td> <td>1d4</td> <td>both</td> <td>1 in 6</td> <td>hurled</td></tr>
-<tr><td>Spear</td> <td>4-6 lb.</td> <td>5'-8'</td> <td>1d6</td> <td>both</td> <td>1 in 4</td> <td>hand-to-hand, hurled</td></tr>
+<tr><td>Spear</td> <td>4-6 lb.</td> <td>5-8'</td> <td>1d6</td> <td>both</td> <td>1 in 4</td> <td>hand-to-hand, hurled</td></tr>
 <tr><td>Staff sling</td> <td>2 lb.</td> <td>5'</td> <td>1d4</td> <td>both</td> <td>1 in 6</td> <td>hurled</td></tr>
 <tr><td>Sword, bastard</td> <td>10 lb.</td> <td>5’</td> <td>2d4</td> <td>one</td> <td>1 in 5</td> <td>hand-to-hand</td></tr>
 <tr><td>Sword, long</td> <td>4 lb.</td> <td>4’</td> <td>1d8</td> <td>one</td> <td>1 in 6</td> <td>hand-to-hand</td></tr>
@@ -50,7 +52,7 @@ date = 2018-05-21
 <tr><td>War hammer</td> <td>5 lb.</td> <td>18"</td> <td>1d6</td> <td>one</td> <td>1 in 6</td> <td>hand-to-hand, hurled</td></tr>
 </table>
 
-### Notes on Weapons Table I.
+#### Notes on Weapons Table I.
 
 * *Battle axe*: includes the *military fork*. 
 Breaks will affect the handle 9 times out of 10.
@@ -73,7 +75,7 @@ The lance is too heavy or cumbersome to use except when mounted.
 * *Scimitar*: includes the *cutlass*, *sabre*, *sickle-sword* and *tulwar*.
 * *Spear*: see [below](#spears).
 
-## Weapons Table II.: Missile Weapon Ranges
+### Weapons Table II.: Missile Weapon Ranges
 
 Ranges are given in hexes (5').
 
@@ -97,7 +99,7 @@ Ranges are given in hexes (5').
 <tr><td>Warhammer</td> <td>2</td> <td>3&ndash;5</td> <td>6&ndash;8</td> <td>9&ndash;11</td></tr>
 </table>
 
-### Notes on Weapons Table II.
+#### Notes on Weapons Table II.
 
 "To hit" chance is modified due to range as follows:
 * *point blank*: add 1
@@ -107,12 +109,12 @@ Ranges are given in hexes (5').
 
 Missile weapons cannot be used against targets immediately in front of the combatant (1 hex), as the combatants are considered in **hand-to-hand combat**.
 
-## Crossbows
+### Crossbows
 
 Crossbows are made up of three separate components: the mechanism, the stock and the bowstring.
 Bowstrings and bolts must be purchased for the crossbow separately.
 
-### Breakage
+#### Breakage
 
 When a die roll indicates that the crossbow has broken, roll a d10 to determine the part that has broken:
 
@@ -125,7 +127,7 @@ When a die roll indicates that the crossbow has broken, roll a d10 to determine 
 
 When crossbow bolts are fired at hard surfaces, they will break on a 1 in 4.
 
-### Loading
+#### Loading
 
 Light crossbows require two rounds to load, and may be fired on the third round.
 
@@ -137,7 +139,7 @@ Furthermore, once fully loaded a crossbow can be kept "at the ready" for up to t
 
 Once a crossbow has been part-loaded three times, its bowstring will be sufficiently weak that it can no longer be part-loaded and will automatically break after the next use.
 
-## Spears
+### Spears
 
 Spears longer than 8 feet are treated as *pikes*.
 
@@ -145,3 +147,66 @@ Spears may be set against **charge**.
 The spear must be planted in the ground and held with the foot.
 An attack can then be made for double damage against a charging opponent; regardless of whether or not the attack succeeds, the spear will then be considered unset.
 If the spear-holder is stunned, the spear will no longer be considered set.
+
+## Armours
+
+### Armour Table I.: Body Armours
+
+<table>
+<tr><th>Armour</th> <th>AC improvement</th> <th>Weight</th></tr>
+<tr><td>Padded armour</td> <td>1</td> <td>10 lb.</td></tr>
+<tr><td>Leather armour</td> <td>2</td> <td>10 lb.</td></tr>
+<tr><td>Studded leather armour</td> <td>3</td> <td>15 lb.</td></tr>
+<tr><td>Ring mail</td> <td>3</td> <td>20 lb.</td></tr>
+<tr><td>Scale mail</td> <td>4</td> <td>25 lb.</td></tr>
+<tr><td>Chain mail</td> <td>5</td> <td>30 lb.</td></tr>
+<tr><td>Banded mail</td> <td>6</td> <td>35 lb.</td></tr>
+<tr><td>Splinted mail</td> <td>6</td> <td>40 lb.</td></tr>
+<tr><td>Plate mail</td> <td>7</td> <td>45 lb.</td></tr>
+<tr><td>Plate armour</td> <td>8</td> <td>50 lb.</td></tr>
+</table>
+
+#### Notes on Armour Table I.
+
+*AC improvement* represents the number of points to subtract from a combatant's base AC when wearing this armour.
+For most humanoids, base AC is 10.
+Hence, a human wearing *ring mail* would have AC 7.
+
+* *Padded armour*: consists of a cloth *hauberk* and *chausses*, which improve AC by 1 when worn together.
+These two pieces are worn under most mail armours to prevent chafing, and must be acquired separately.
+* *Ring mail*: requires *chausses* (see *padded armour*).
+* *Scale mail*: requires *hauberk* and *chausses* (see *padded armour*).
+* *Chain mail*: requires *hauberk* and *chausses* (see *padded armour*).
+* *Banded mail*: requires *hauberk* and *chausses* (see *padded armour*).
+* *Splinted mail*: requires *hauberk* and *chausses* (see *padded armour*).
+* *Plate mail*: requires *hauberk* and *chausses* (see *padded armour*).
+* *Plate armour*: requires *hauberk* and *chausses* (see *padded armour*).
+
+### Armour Table II. Shields
+
+<table>
+<tr><th>Shield</th> <th>Sides Protected</th> <th>Weight</th></tr>
+<tr><td>Small wooden</td> <td>2</td> <td>2.5 lb.</td></tr>
+<tr><td>Small</td> <td>2</td> <td>3 lb.</td></tr>
+<tr><td>Large</td> <td>3</td> <td>5 lb.</td></tr>
+<tr><td>Daraq</td> <td>3</td> <td>6 lb.</td></tr>
+</table>
+
+#### Notes on Armour Table II.
+
+All shields improve AC by 1 against attacks from the front and shield flank side.
+
+*Sides protected* specifies the number of sides on a hexagon that the shield is capable of covering.
+A shield which protects 2 sides can cover the facing direction and the shield side (120&deg;).
+A shield which protects 3 sides can cover the facing direction, the shield side and the shield flank side (180&deg;).
+
+Shields may not be used with any two-handed weapons.
+
+If a shield is not strapped to the combatant's arm, it will be knocked out of hand if the combatant is **stunned**.
+
+* *Small wooden shield*: made entirely of wood; usable by **druids**.
+* *Small shield*: wood with metal reinforcing bands.
+* *Large shield*: wood with metal reinforcing bands.
+As a full round action, a combatant can hide behind this shield and improve AC by 3 against fired and hurled weapons.
+* *Daraq*: turtle-shell buckler; usable by **druids**.
+As a full round action, a combatant can hide behind this shield and improve AC by 3 against fired and hurled weapons.
