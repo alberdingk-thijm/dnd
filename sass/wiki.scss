@@ -1,0 +1,15 @@
+/*
+ * Wiki scss settings.
+ * Use fancy fonts for that added old school text factor.
+ */
+
+@font-face {
+  font-family: IMFellTypes;
+  src: url("font/FellTypes/IMFeENrm29P.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.sidebar {
+    font-family: IMFellTypes, "PT Sans", Helvetica, Arial, sans-serif;
+}

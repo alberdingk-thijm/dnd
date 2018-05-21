@@ -31,8 +31,15 @@
  * Update the foundational and global aspects of the page.
  */
 
+@font-face {
+  font-family: IMFellTypes;
+  src: url("font/FellTypes/IMFeENrm29P.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: IMFellTypes, "PT Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
