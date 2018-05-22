@@ -21,6 +21,16 @@ Characters with 20 points of knowledge in a skill are considered *masters* of th
 
 The number of points of knowledge a character earns upon levelling depends on their **intelligence** and their class.
 
+## Modal Skills
+
+Some skills or techniques are identified as *modal*.
+This means that the skill or technique is associated with a particular subcategory, based on geography, history or cultural custom.
+Characters with knowledge in that skill or technique must identify which subcategory that knowledge belongs to when evaluating their understanding of said skill or technique.
+Knowledge checks or techniques drawing from unfamiliar areas of these subcategories are judged to be half as effective.
+
+As an example, a character with 6 points of knowledge of *politics* must specify to which political entity (e.g. a kingdom or empire) that knowledge applies.
+For all other political entities, her knowledge is considered to be a 3.
+
 ## List of All Skills
 
 * Acrobatics
@@ -28,23 +38,20 @@ The number of points of knowledge a character earns upon levelling depends on th
 * Anatomy
 * Animal friendship
 * Architecture
+* Artistry
 * Assassination
-* Astrology
-* Astronomy
+* Astrology & Astronomy
 * Athletics
 * Backstabbing
 * Botany
-* Conceptualism
+* Burglary
 * Cosmology
-* Creativity
-* Criticism
-* Dialectics
+* Craftsmanship
 * Discipline
 * Dog training
 * Engineering
 * Falconry
 * Folklore
-* Forestry
 * Forgery
 * Geography
 * Geology
@@ -56,14 +63,14 @@ The number of points of knowledge a character earns upon levelling depends on th
 * Interrogation
 * Law
 * Linguistics
-* Lockpicking
+* Logic
 * Logistics
 * Martial arts
 * Mathematics
 * Medicine
 * Mercantilism
 * Mindfulness
-* Mountaineering
+* Necromancy
 * Oceanography
 * Occultism
 * Organization
@@ -71,11 +78,8 @@ The number of points of knowledge a character earns upon levelling depends on th
 * Performance
 * Philosophy
 * Physics
-* Pickpocketing
-* Poisoning
+* Poisons
 * Politics
-* Pragmatism
-* Production
 * Puissance
 * Religious architecture
 * Religious art & music
@@ -88,7 +92,6 @@ The number of points of knowledge a character earns upon levelling depends on th
 * Theology
 * Transmogrification
 * Traps
-* Turn undead
 * Unarmed combat
 * Zoology
 

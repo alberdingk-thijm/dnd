@@ -48,7 +48,7 @@ They may *respecialize* in a new form, but will begin at level 1 and have to ret
 Some skills are available across forms, and will not be penalized if the bard changes specialties.
 Others are only available within a specific subset of forms.
 
-Skills available to bards include **conceptualism**, **creativity**, **criticism**, **dialectics**, **engineering**, **folklore**, **heraldry**, **history**, **instruction**, **linguistics**, **logistics**, **mathematics**, **performance**, **pragmatism**, **production** and **transmogrification**.
+Skills available to bards include **artistry**, **craftsmanship**, **engineering**, **folklore**, **heraldry**, **history**, **instruction**, **linguistics**, **logic**, **logistics**, **mathematics**, **performance**, **philosophy** and **transmogrification**.
 
 At first level, bards gain 8 knowledge points plus any intelligence bonuses.
 Bards gain 1d8 knowledge points per level.

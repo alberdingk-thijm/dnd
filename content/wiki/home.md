@@ -41,6 +41,9 @@ Anything not referenced here can most likely be found there.
 * [Astrology & Astronomy](./wiki/skills/astrology.md)
 * [Athletics](./wiki/skills/athletics.md)
 * [Botany](./wiki/skills/botany.md)
+* [Folklore](./wiki/skills/folklore.md)
+* [Necromancy](./wiki/skills/necromancy.md)
+* [Theology](./wiki/skills/theology.md)
 
 ### Adventuring
 * [Equipment](./wiki/equipment.md)

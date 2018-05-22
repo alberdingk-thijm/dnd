@@ -41,7 +41,20 @@ Clerics can employ a fair number of magic items including most potions; clerical
 
 Under normal circumstances, clerics are able to **read**.
 
-Skills available to clerics include **astrology**, **astronomy**, **dialectics**, **folklore**, **heraldry**, **history**, **law**, **medicine**, **necromancy**, **politics**, **religious architecture**, **religious art & music**, **rituals** and **theology**.
+Skills available to clerics include:
+* [astrology & astronomy](./wiki/skills/astrology.md)
+* [folklore](./wiki/skills/folklore.md)
+* **heraldry**
+* **history**
+* **law**
+* **logic**
+* **medicine**
+* [necromancy](./wiki/skills/necromancy.md)
+* **politics**
+* **religious architecture**
+* **religious art & music**
+* **rituals**
+* [theology](./wiki/skills/theology.md)
 
 At first level, clerics gain 6 knowledge points plus any intelligence bonuses.
 Clerics gain 1d6 knowledge points per level.

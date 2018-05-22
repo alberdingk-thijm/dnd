@@ -44,7 +44,7 @@ Assassins are not inherently **literate**.
 
 All assassins have the ability to **assassinate** an enemy.
 
-Skills available to assassins include **anatomy**, **athletics**, **backstabbing**, **camelback riding**, **dog training**, **falconry**, **flying mounts**, **guile**, **horseback riding**, **interrogation**, **lockpicking**, **perception**, **poisoning**, **stealth**, **subterfuge**, **traps** and **unarmed combat**.
+Skills available to assassins include **anatomy**, **athletics**, **backstabbing**, **burglary**, **dog training**, **falconry**, **guile**, **interrogation**, **perception**, **poisoning**, **riding**, **stealth**, **subterfuge**, **traps** and **unarmed combat**.
 
 At first level, assassins gain 6 knowledge points plus any intelligence bonuses.
 Assassins gain 1d6 knowledge points per level.
