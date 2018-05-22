@@ -77,7 +77,7 @@ Intelligence is the major characteristic of mages, and those with intelligence o
 
 <table>
 <tr><th>Ability Score</th><th>General Information</th><th>Knowledge Adjustment</th></tr>
-<tr><td>3</td><td/><td>0</td></tr>
+<tr><td>3</td><td/><td>0</td>-3</tr>
 <tr><td>4</td><td>Minimum intelligence for a <b>half-elf</b> character</td><td>-2</td></tr>
 <tr><td>5</td><td>Here or lower the character can only be a <b>fighter</b></td><td>-1</td></tr>
 <tr><td>6</td><td>Minimum intelligence for a <b>halfling</b> character</td><td>-1</td></tr>
@@ -93,6 +93,7 @@ Intelligence is the major characteristic of mages, and those with intelligence o
 <tr><td>16</td><td>Minimum intelligence for use of 8th level magic spells</td><td>1</td></tr>
 <tr><td>17</td><td>Maximum intelligence for a <b>half-orc</b> character</td><td>1</td></tr>
 <tr><td>18</td><td>Minimum intelligence for use of 9th level magic spells</td><td>2</td></tr>
+<tr><td>19</td><td></td><td>3</td></tr>
 </table>
 
 #### Notes on Intelligence Table I.
@@ -154,6 +155,7 @@ Furthermore, <b>clerics</b> with exceptional wisdom (16 or greater) also gain bo
 <tr><td>16</td> <td>Maximum wisdom for a <b>half-orc</b> character</td> <td>+2</td></tr>
 <tr><td>17</td> <td>Maximum wisdom for a <b>halfling</b> character<br/>Minimum wisdom for use of 6th level spells</td> <td>+3</td></tr>
 <tr><td>18</td> <td>Minimum wisdom for use of 7th level spells</td> <td>+4</td></tr>
+<tr><td>19</td> <td></td> <td>+5</td></tr>
 </table>
 
 &dagger;*This adjustment applies to the saving throw of the character in question, the penalty for low wisdom, or the bonus for high wisdom, being used to alter the result of the die roll accordingly. The adjustment applies only to mental attack forms involving will force, e.g. beguiling, charming, fear, hypnosis, illusion, magic jarring, mass charming, phantasmal forces, possession, rulership, suggestion, telepathic attack, etc.*
@@ -171,6 +173,7 @@ Furthermore, <b>clerics</b> with exceptional wisdom (16 or greater) also gain bo
 <tr><td>16</td> <td>One 2nd level</td> <td>0%</td></tr>
 <tr><td>17</td> <td>One 3rd level&dagger;</td> <td>0%</td></tr>
 <tr><td>18</td> <td>One 4th level&Dagger;</td> <td>0%</td></tr>
+<tr><td>19</td> <td>One 5th level</td> <td>0%</td></tr>
 </table>
 
 &dagger;*Minimum wisdom for use of 6th level spells*
@@ -184,43 +187,6 @@ Bonus spells are cumulative, so a <b>cleric</b> with 14 wisdom is entitled to tw
 
 *Chance of Spell Failure* states the percentage chance of failure <b>clerics</b> with low wisdom risk when casting spells.
 To determine is a spell fails, percentile dice are rolled, and if the number generated is equal to or less than the number shown for failure, the spell is expended and has absolutely no effect whatsoever.
-
-
-## Constitution
-Constitution is a term which encompasses the character’s physique, fitness, health, and resistance.
-Constitution scores above a certain number are necessary for becoming certain sub-classes of characters (<b>paladins</b>, <b>rangers</b> and <b>monks</b>).
-### Constitution Table
-<table>
-<tr><th>Ability Score</th> <th>General Information</th> <th>Hit Point Adjustment</th> <th>System Shock Survival</th> <th>Resurrection Survival</th></tr>
-<tr><td>3</td> <td></td> <td>-2</td> <td>35%</td> <td>40%</td></tr>
-<tr><td>4</td> <td></td> <td>-1</td> <td>40%</td> <td>45%</td></tr>
-<tr><td>5</td> <td>Here or lower the character can only be an <b>illusionist</b></td> <td>-1</td> <td>45%</td> <td>50%</td></tr>
-<tr><td>6</td> <td>Minimum constitution for an <b>elf</b> or <b>half-elf</b> character</td> <td>-1</td> <td>50%</td> <td>55%</td></tr>
-<tr><td>7</td> <td>Minimum constitution for a <b>fighter</b> character</td> <td>0</td> <td>55%</td> <td>60%</td></tr>
-<tr><td>8</td> <td>Minimum constitution for a <b>gnome</b> character</td> <td>0</td> <td>60%</td> <td>65%</td></tr>
-<tr><td>9</td> <td>Minimum constitution for a <b>paladin</b> character</td> <td>0</td> <td>65%</td> <td>70%</td></tr>
-<tr><td>10</td> <td>Minimum constitution for a <b>halfling</b> character</td> <td>0</td> <td>70%</td> <td>75%</td></tr>
-<tr><td>11</td> <td>Minimum constitution for a <b>monk</b> character</td> <td>0</td> <td>75%</td> <td>80%</td></tr>
-<tr><td>12</td> <td>Minimum constitution for a <b>dwarf</b> character</td> <td>0</td> <td>80%</td> <td>85%</td></tr>
-<tr><td>13</td> <td>Minimum constitution for a <b>half-orc</b> character</td> <td>0</td> <td>85%</td> <td>90%</td></tr>
-<tr><td>14</td> <td>Minimum constitution for a <b>ranger</b> character</td> <td>0</td> <td>88%</td> <td>92%</td></tr>
-<tr><td>15</td> <td></td> <td>+1</td> <td>91%</td> <td>94%</td></tr>
-<tr><td>16</td> <td></td> <td>+2</td> <td>95%</td> <td>96%</td></tr>
-<tr><td>17</td> <td></td> <td>+2 (+3)&dagger;</td> <td>97%</td> <td>98%</td></tr>
-<tr><td>18</td> <td></td> <td>+2 (+4)&dagger;</td> <td>99%</td> <td>100%</td></tr>
-</table>
-
-&dagger;*Bonus applies only to <b>fighters</b>; all other classes may be given a maximum hit point bonus adjustment for constitution of +2.*
-
-#### Notes regarding Constitution Table
-*Hit Point Adjustment* indicates the subtraction from or addition to each hit die for a character. Note that subtraction can never reduce any hit die below 1, even if the roll is less than or equal to the hit point adjustment penalty. Note also that the only class of characters which is entitled to bonuses above +2 is <b>fighters</b> (including the <b>fighter</b> sub-classes <b>paladins</b> and <b>rangers</b>).
-
-*System Shock Survival* states the percentage chance the character has of surviving the following forms of magical attack (or simple application of magic): aging, petrification (including flesh to stone spell), polymorph any object, polymorph others. Two saving throws must be made when these effects are undergone: one to survive the spell, and a second (on success of the first) to determine if the spell takes effect (save failed) or if it is dispelled (save succeeded).
-
-*Resurrection Survival* shows the percentage chance the character has of being successfully raised from the dead or resurrected by a <b>cleric</b>. The score of the percentile dice must be equal to or less than the number shown on the table, or the character fails to be revivified and is completely and totally dead forever.
-A character’s initial constitution is also the maximum number of times the character can be raised from the dead/resurrected, and that each such revivification reduces the character’s constitution score by 1.
-Although a character’s constitution score can be restored to its former score, or even raised above this number by magical means, this in no way alters the initial score limitation, nor does such magical change in constitution restore to the character additional chances for revivification.
-Thus, if a character has an initial constitution of 15, they can never be brought back to life by a raise dead or resurrection spell more often than 15 times.
 
 
 ## Dexterity
@@ -247,6 +213,7 @@ Dexterity is the major characteristic of the <b>thief</b> class of character, an
 <tr><td>16</td> <td>Minimum dexterity for an <b>illusionist</b> character</td> <td>+1</td> <td>-2</td></tr>
 <tr><td>17</td> <td>Maximum dexterity for a <b>dwarf</b> character</td> <td>+2</td> <td>-3</td></tr>
 <tr><td>18</td> <td></td> <td>+3</td> <td>-4</td></tr>
+<tr><td>19</td> <td></td> <td>+4</td> <td>-5</td></tr>
 </table>
 
 #### Notes regarding Dexterity Table I.
@@ -273,6 +240,45 @@ Dexterity is the major characteristic of the <b>thief</b> class of character, an
 *Picking Pockets* states the percentage adjustment to be made to the <b>thief</b>’s base chance of picking a chosen target’s pockets for a particular item.
 *Spotting Traps* states the percentage adjustment to be made to the <b>thief</b>’s base chance of passively spotting traps in a given room.
 More information can be found in Character Classes, Thieves.
+
+
+## Constitution
+Constitution is a term which encompasses the character’s physique, fitness, health, and resistance.
+Constitution scores above a certain number are necessary for becoming certain sub-classes of characters (<b>paladins</b>, <b>rangers</b> and <b>monks</b>).
+
+### Constitution Table
+<table>
+<tr><th>Ability Score</th> <th>General Information</th> <th>Hit Point Adjustment</th> <th>System Shock Survival</th> <th>Resurrection Survival</th></tr>
+<tr><td>3</td> <td></td> <td>-2</td> <td>35%</td> <td>40%</td></tr>
+<tr><td>4</td> <td></td> <td>-1</td> <td>40%</td> <td>45%</td></tr>
+<tr><td>5</td> <td>Here or lower the character can only be an <b>illusionist</b></td> <td>-1</td> <td>45%</td> <td>50%</td></tr>
+<tr><td>6</td> <td>Minimum constitution for an <b>elf</b> or <b>half-elf</b> character</td> <td>-1</td> <td>50%</td> <td>55%</td></tr>
+<tr><td>7</td> <td>Minimum constitution for a <b>fighter</b> character</td> <td>0</td> <td>55%</td> <td>60%</td></tr>
+<tr><td>8</td> <td>Minimum constitution for a <b>gnome</b> character</td> <td>0</td> <td>60%</td> <td>65%</td></tr>
+<tr><td>9</td> <td>Minimum constitution for a <b>paladin</b> character</td> <td>0</td> <td>65%</td> <td>70%</td></tr>
+<tr><td>10</td> <td>Minimum constitution for a <b>halfling</b> character</td> <td>0</td> <td>70%</td> <td>75%</td></tr>
+<tr><td>11</td> <td>Minimum constitution for a <b>monk</b> character</td> <td>0</td> <td>75%</td> <td>80%</td></tr>
+<tr><td>12</td> <td>Minimum constitution for a <b>dwarf</b> character</td> <td>0</td> <td>80%</td> <td>85%</td></tr>
+<tr><td>13</td> <td>Minimum constitution for a <b>half-orc</b> character</td> <td>0</td> <td>85%</td> <td>90%</td></tr>
+<tr><td>14</td> <td>Minimum constitution for a <b>ranger</b> character</td> <td>0</td> <td>88%</td> <td>92%</td></tr>
+<tr><td>15</td> <td></td> <td>+1</td> <td>91%</td> <td>94%</td></tr>
+<tr><td>16</td> <td></td> <td>+2</td> <td>95%</td> <td>96%</td></tr>
+<tr><td>17</td> <td></td> <td>+2 (+3)&dagger;</td> <td>97%</td> <td>98%</td></tr>
+<tr><td>18</td> <td></td> <td>+2 (+4)&dagger;</td> <td>99%</td> <td>100%</td></tr>
+<tr><td>19</td> <td></td> <td>+2 (+5)&dagger;</td> <td>100%</td> <td>100%</td></tr>
+</table>
+
+&dagger;*Bonus applies only to <b>fighters</b>; all other classes may be given a maximum hit point bonus adjustment for constitution of +2.*
+
+#### Notes regarding Constitution Table
+*Hit Point Adjustment* indicates the subtraction from or addition to each hit die for a character. Note that subtraction can never reduce any hit die below 1, even if the roll is less than or equal to the hit point adjustment penalty. Note also that the only class of characters which is entitled to bonuses above +2 is <b>fighters</b> (including the <b>fighter</b> sub-classes <b>assassins</b>, <b>paladins</b> and <b>rangers</b>).
+
+*System Shock Survival* states the percentage chance the character has of surviving the following forms of magical attack (or simple application of magic): aging, petrification (including flesh to stone spell), polymorph any object, polymorph others. Two saving throws must be made when these effects are undergone: one to survive the spell, and a second (on success of the first) to determine if the spell takes effect (save failed) or if it is dispelled (save succeeded).
+
+*Resurrection Survival* shows the percentage chance the character has of being successfully raised from the dead or resurrected by a <b>cleric</b>. The score of the percentile dice must be equal to or less than the number shown on the table, or the character fails to be revivified and is completely and totally dead forever.
+A character’s initial constitution is also the maximum number of times the character can be raised from the dead/resurrected, and that each such revivification reduces the character’s constitution score by 1.
+Although a character’s constitution score can be restored to its former score, or even raised above this number by magical means, this in no way alters the initial score limitation, nor does such magical change in constitution restore to the character additional chances for revivification.
+Thus, if a character has an initial constitution of 15, they can never be brought back to life by a raise dead or resurrection spell more often than 15 times.
 
 
 ## Charisma

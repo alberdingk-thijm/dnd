@@ -79,11 +79,15 @@ Druids are limited to 23 levels.
 <tr><td>23</td><td>6500001</td><td>15+8</td></tr>
 </table>
 
-## Spell Acquisition
+## Spell Acquisition & Use
 
 Druids gain bonus spells based on their **wisdom**.
 
+### Spell Recovery
+
 Druids must rest overnight and pray before recovering their spells.
+
+### Druid Spell Table
 
 <table>
   <tr> <th rowspan="2">Druid Level</th> <th colspan="7">Spell Level</th> </tr>

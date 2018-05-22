@@ -68,11 +68,15 @@ Clerics gain 1d6 knowledge points per level.
 
 Clerics gain 2 h.p. per level above 9th.
 
-## Spell Acquisition
+## Spell Acquisition & Use
 
 Clerics gain bonus spells based on their **wisdom**.
 
+### Spell Recovery
+
 Clerics must rest overnight and pray before recovering their spells.
+
+### Cleric Spell Table
 
 <table>
   <tr> <th rowspan="2">Cleric Level</th> <th colspan="7">Spell Level</th> </tr>

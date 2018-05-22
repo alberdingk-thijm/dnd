@@ -68,9 +68,26 @@ Mages gain 1d6 knowledge points per level.
 
 Mages gain 1 h.p. per level above 11th.
 
-## Spell Acquisition
+## Spell Acquisition & Use
 
-Mages' cantrips and spells are kept in **spellbooks**.
+### Spellbooks
+
+As a means to concentrate on and study magic, mages may store the symbols and words of their cantrips and spells in books or scrolls.
+The series of symbols and words is known as the 'incantation' of a spell, which must be studied in order for the magic to follow the mage's whim.
+More powerful spells require longer incantations, which are measured in 'quires'.
+The standard length of one quire is sixteen nine-by-twelve inch pages.
+As books can vary in size, the quire provides a simple unit for recording incantation size.
+
+A single cantrip requires 1/32 of a quire.
+
+A given spell level requires 1/16 of a quire by level, i.e. a fifth level spell requires 5/16 of a quire.
+
+Once a book or scroll is filled, the mage must acquire a new book or scroll to write in future spells.
+When new spells are acquired, it is presumed that the mage is able to hold them in memory until such time as they can be transcribed in a spellbook.
+
+### Spell Recovery
+
+Once a cantrip or spell has been cast, the mage must study the cantrip or spell again in their spellbook after a period of overnight rest (typically six hours).
 
 ### Mage Spell Table I.: Cantrips
 
@@ -90,7 +107,7 @@ Mages' cantrips and spells are kept in **spellbooks**.
 
 Each subsequent cantrip after first level may be chosen by rolling a percentile die to determine the cantrip type (per the *Roll* column) and then choosing a cantrip within that group.
 
-### Mage Spell Table II.: All Spell Acquisitions
+### Mage Spell Table II.: Spell Acquisitions
 
 <table>
 <tr><th rowspan="2">Mage Level</th> <th rowspan="2">Cantrips</th> <th colspan="9">Spell Level</th></tr>

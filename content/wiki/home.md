@@ -34,6 +34,14 @@ Anything not referenced here can most likely be found there.
 * Ranger
 * Thief
 
+### Skills
+* [Acrobatics](./wiki/skills/acrobatics.md)
+* [Alchemy](./wiki/skills/alchemy.md)
+* [Architecture](./wiki/skills/architecture.md)
+* [Astrology & Astronomy](./wiki/skills/astrology.md)
+* [Athletics](./wiki/skills/athletics.md)
+* [Botany](./wiki/skills/botany.md)
+
 ### Adventuring
 * [Equipment](./wiki/equipment.md)
 
