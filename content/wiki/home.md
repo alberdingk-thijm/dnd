@@ -27,6 +27,12 @@ Anything not referenced here can most likely be found there.
 * [Cleric](./wiki/characters/cleric.md)
 * [Druid](./wiki/characters/druid.md)
 * [Fighter](./wiki/characters/fighter.md)
+* Illusionist
+* [Mage](./wiki/characters/mage.md)
+* Monk
+* Paladin
+* Ranger
+* Thief
 
 ### Adventuring
 * [Equipment](./wiki/equipment.md)

@@ -70,31 +70,36 @@ Strength is the prime requisite of fighters, and those fighters with a strength 
 
 ## Intelligence
 Intelligence includes mnemonic ability, reasoning, and learning ability outside those measured by the written word.
+Intelligence affects a character's ability to learn new skills and improve their understanding thereof.
 Intelligence is the major characteristic of mages, and those with intelligence of 16 or more gain a bonus of 10% of earned experience.
 
 ### Intelligence Table I.
 
 <table>
-<tr><th>Ability Score</th><th>General Information</th><th>Possible # of Additional Languages&dagger;</th></tr>
+<tr><th>Ability Score</th><th>General Information</th><th>Knowledge Adjustment</th></tr>
 <tr><td>3</td><td/><td>0</td></tr>
-<tr><td>4</td><td>Minimum intelligence for a <b>half-elf</b> character</td><td>0</td></tr>
-<tr><td>5</td><td>Here or lower the character can only be a <b>fighter</b></td><td>0</td></tr>
-<tr><td>6</td><td>Minimum intelligence for a <b>halfling</b> character</td><td>0</td></tr>
-<tr><td>7</td><td>Minimum intelligence for a <b>gnome</b> character</td><td>0</td></tr>
-<tr><td>8</td><td>Minimum intelligence for an <b>elf</b> character</td><td>1</td></tr>
-<tr><td>9</td><td>Minimum intelligence for a <b>paladin</b> or <b>mage</b> character</td><td>1</td></tr>
-<tr><td>10</td><td>Minimum intelligence for use of 5th level magic spells</td><td>2</td></tr>
-<tr><td>11</td><td>Minimum intelligence for an <b>assassin</b> character</td><td>2</td></tr>
-<tr><td>12</td><td>Minimum intelligence for use of 6th level magic spells</td><td>3</td></tr>
-<tr><td>13</td><td>Minimum intelligence for a <b>ranger</b> character</td><td>3</td></tr>
-<tr><td>14</td><td>Minimum intelligence for use of 7th level magic spells</td><td>4</td></tr>
-<tr><td>15</td><td>Minimum intelligence for an <b>illusionist</b> character</td><td>4</td></tr>
-<tr><td>16</td><td>Minimum intelligence for use of 8th level magic spells</td><td>5</td></tr>
-<tr><td>17</td><td>Maximum intelligence for a <b>half-orc</b> character</td><td>6</td></tr>
-<tr><td>18</td><td>Minimum intelligence for use of 9th level magic spells</td><td>7</td></tr>
+<tr><td>4</td><td>Minimum intelligence for a <b>half-elf</b> character</td><td>-2</td></tr>
+<tr><td>5</td><td>Here or lower the character can only be a <b>fighter</b></td><td>-1</td></tr>
+<tr><td>6</td><td>Minimum intelligence for a <b>halfling</b> character</td><td>-1</td></tr>
+<tr><td>7</td><td>Minimum intelligence for a <b>gnome</b> character</td><td>-1</td></tr>
+<tr><td>8</td><td>Minimum intelligence for an <b>elf</b> character</td><td>0</td></tr>
+<tr><td>9</td><td>Minimum intelligence for a <b>paladin</b> or <b>mage</b> character</td><td>0</td></tr>
+<tr><td>10</td><td>Minimum intelligence for use of 5th level magic spells</td><td>0</td></tr>
+<tr><td>11</td><td>Minimum intelligence for an <b>assassin</b> character</td><td>0</td></tr>
+<tr><td>12</td><td>Minimum intelligence for use of 6th level magic spells</td><td>0</td></tr>
+<tr><td>13</td><td>Minimum intelligence for a <b>ranger</b> character</td><td>0</td></tr>
+<tr><td>14</td><td>Minimum intelligence for use of 7th level magic spells</td><td>0</td></tr>
+<tr><td>15</td><td>Minimum intelligence for an <b>illusionist</b> character</td><td>1</td></tr>
+<tr><td>16</td><td>Minimum intelligence for use of 8th level magic spells</td><td>1</td></tr>
+<tr><td>17</td><td>Maximum intelligence for a <b>half-orc</b> character</td><td>1</td></tr>
+<tr><td>18</td><td>Minimum intelligence for use of 9th level magic spells</td><td>2</td></tr>
 </table>
 
-&dagger;*Non-<b>human</b> characters typically are able to speak more languages than are <b>human</b> characters, but intelligence likewise affects the upper limit of their abilities as well, and there are racial limitations.*
+#### Notes on Intelligence Table I.
+
+*Knowledge Adjustment* states the roll bonus when gaining new knowledge points.
+On level up, when a character gains additional points of knowledge in skills, they add or subtract the score from their roll as applicable.
+*Note that the lowest roll for knowledge points earned per level is 1.*
 
 ### Intelligence Table II.: Ability for Mages
 

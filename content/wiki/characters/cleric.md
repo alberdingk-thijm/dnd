@@ -41,9 +41,10 @@ Clerics can employ a fair number of magic items including most potions; clerical
 
 Under normal circumstances, clerics are able to **read**.
 
-Clerics are not trained in **riding**.
+Skills available to clerics include **astrology**, **astronomy**, **dialectics**, **folklore**, **heraldry**, **history**, **law**, **medicine**, **necromancy**, **politics**, **religious architecture**, **religious art & music**, **rituals** and **theology**.
 
-Skills available to clerics include **turn undead**, **medicine**, **law**, **history**, **politics**, **religious art & music**, **religious architecture**, **folklore**, **astronomy & astrology**, **rituals** and **heraldry**.
+At first level, clerics gain 6 knowledge points plus any intelligence bonuses.
+Clerics gain 1d6 knowledge points per level.
 
 ## Experience Table
 
@@ -68,6 +69,10 @@ Skills available to clerics include **turn undead**, **medicine**, **law**, **hi
 Clerics gain 2 h.p. per level above 9th.
 
 ## Spell Acquisition
+
+Clerics gain bonus spells based on their **wisdom**.
+
+Clerics must rest overnight and pray before recovering their spells.
 
 <table>
   <tr> <th rowspan="2">Cleric Level</th> <th colspan="7">Spell Level</th> </tr>

@@ -13,9 +13,9 @@ Knowledge governs how familiar a character is with a given skill.
 A character's knowledge is represented as a number out of 20.
 
 Characters with no points of knowledge in a skill are *untrained* in the skill.
-Characters with 1 point of knowledge in a skill are considered *unskilled*, able to perform perhaps the most basic techniques of a skill.
-Characters with at least 2 points of knowledge in a skill are considered *amateurs* with basic training in the skill.
-Characters with at least 5 points of knowledge in a skill are considered *authorities* with richer understanding of the skill.
+Characters with 1 or 2 points of knowledge in a skill are considered *unskilled*, able to perform perhaps the most basic techniques of a skill.
+Characters with at least 3 points of knowledge in a skill are considered *amateurs* with basic training in the skill.
+Characters with at least 7 points of knowledge in a skill are considered *authorities* with richer understanding of the skill.
 Characters with at least 13 points of knowledge in a skill are considered *experts*.
 Characters with 20 points of knowledge in a skill are considered *masters* of the skill.
 
@@ -23,83 +23,74 @@ The number of points of knowledge a character earns upon levelling depends on th
 
 ## List of All Skills
 
-Skills in *italics* are unique to a particular class.
-
 * Acrobatics
 * Alchemy
+* Anatomy
 * Animal friendship
 * Architecture
-* Art history
-* Artifacts
-* *Artistic representation*
-* *Assassination*
+* Assassination
 * Astrology
 * Astronomy
 * Athletics
 * Backstabbing
 * Botany
-* Camelback riding
-* *Conceptualism*
+* Conceptualism
 * Cosmology
-* *Creativity*
-* *Criticism*
-* Current affairs
+* Creativity
+* Criticism
+* Dialectics
+* Discipline
 * Dog training
 * Engineering
-* Ethics
 * Falconry
-* Flying mounts
 * Folklore
 * Forestry
-* *Forgery*
+* Forgery
 * Geography
 * Geology
 * Golemancy
 * Guile
 * Heraldry
 * History
-* Horseback riding
 * Instruction
 * Interrogation
 * Law
 * Linguistics
 * Lockpicking
 * Logistics
-* Mahout
 * Martial arts
 * Mathematics
 * Medicine
 * Mercantilism
-* *Mindfulness*
+* Mindfulness
 * Mountaineering
-* Nature languages
 * Oceanography
 * Occultism
 * Organization
 * Perception
-* *Performance*
+* Performance
+* Philosophy
 * Physics
-* Physiology
 * Pickpocketing
 * Poisoning
 * Politics
-* *Pragmatism*
-* Propaganda
+* Pragmatism
+* Production
 * Puissance
 * Religious architecture
 * Religious art & music
+* Riding
 * Rituals
-* *Scouting*
-* *Shapeshifting*
-* *Stagecraft*
+* Scouting
+* Shapeshifting
 * Stealth
 * Subterfuge
 * Theology
+* Transmogrification
 * Traps
-* Trivium
 * Turn undead
 * Unarmed combat
-* Underwater mounts
+* Zoology
 
 ## Attribution
 

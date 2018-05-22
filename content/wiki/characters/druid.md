@@ -41,9 +41,12 @@ All druids gain a +2 bonus to saving throws against *fire* and *lightning* attac
 
 Druids are not inherently **literate**.
 
-Druids are not trained in **riding**.
+All druids have the **shapeshifting** and **animal friendship** skills.
 
-Skills available to druids include **shapeshifting**, **nature languages**, **animal friendship**, **geology**, **oceanography**, **animal biology**, **botany**, **astronomy**, **golemancy**, **alchemy** and **geography**.
+Skills available to druids include **alchemy**, **anatomy**, **astronomy**, **botany**, **cosmology**, **folklore**, **geography**, **geology**, **golemancy**, **medicine**, **oceanography** and **zoology**.
+
+At first level, druids gain 6 knowledge points plus any intelligence bonuses.
+Druids gain 1d6 knowledge points per level.
 
 ## Experience Table
 

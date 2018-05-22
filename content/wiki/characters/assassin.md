@@ -42,9 +42,13 @@ Assassins may use any magic items available to **fighters**, barring items corre
 
 Assassins are not inherently **literate**.
 
-All assassins have the ability to **assassinate** an enemy, though they may also train in this skill.
+All assassins have the ability to **assassinate** an enemy.
 
-Skills available to assassins include **camelback riding**, **dog training**, **falconry**, **flying mounts**, **horseback riding**, **guile**, **assassination**, **interrogation**, **poisoning**, **unarmed combat**, **athletics**, **backstabbing**, **traps**, **perception** and **stealth**.
+Skills available to assassins include **anatomy**, **athletics**, **backstabbing**, **camelback riding**, **dog training**, **falconry**, **flying mounts**, **guile**, **horseback riding**, **interrogation**, **lockpicking**, **perception**, **poisoning**, **stealth**, **subterfuge**, **traps** and **unarmed combat**.
+
+At first level, assassins gain 6 knowledge points plus any intelligence bonuses.
+Assassins gain 1d6 knowledge points per level.
+
 
 ## Experience Table
 

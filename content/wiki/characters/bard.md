@@ -40,8 +40,6 @@ Bards are able to employ any magic items normally available to **fighters** and 
 
 Under normal circumstances, bards are able to **read**.
 
-Bards are not trained in **riding**.
-
 All bards have the ability to play **martial music**.
 
 Bards must choose one of the aforementioned artistic forms to specialize in in addition to their usual skills.
@@ -50,7 +48,10 @@ They may *respecialize* in a new form, but will begin at level 1 and have to ret
 Some skills are available across forms, and will not be penalized if the bard changes specialties.
 Others are only available within a specific subset of forms.
 
-Skills available to bards include **conceptualism**, **creativity**, **performance**, **pragmatism**, **criticism**, **tutoring**, **art history**, **engineering**, **propaganda**, **trivium**, **mathematics**, **stagecraft** and **artistic representation**.
+Skills available to bards include **conceptualism**, **creativity**, **criticism**, **dialectics**, **engineering**, **folklore**, **heraldry**, **history**, **instruction**, **linguistics**, **logistics**, **mathematics**, **performance**, **pragmatism**, **production** and **transmogrification**.
+
+At first level, bards gain 8 knowledge points plus any intelligence bonuses.
+Bards gain 1d8 knowledge points per level.
 
 ### Martial Music
 

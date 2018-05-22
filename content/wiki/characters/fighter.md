@@ -66,7 +66,10 @@ Note that they can still only perform the given number of attacks per round, reg
 
 Fighters are not inherently **literate**.
 
-Skills available to fighters include **camelback riding**, **dog training**, **falconry**, **flying mounts**, **horseback riding**, **mahout**, **underwater mounts**, **logistics**, **organization**, **puissance**, **unarmed combat**, **athletics**, **perception** and **instruction**.
+Skills available to fighters include **athletics**, **discipline**, **dog training**, **falconry**, **heraldry**, **instruction**, **logistics**, **organization**, **perception**, **puissance**, **riding** and **unarmed combat**.
+
+At first level, fighters gain 6 knowledge points.
+Fighters gain 1d6 knowledge points per level.
 
 ## Experience Table
 
