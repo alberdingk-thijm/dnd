@@ -11,7 +11,7 @@ It encapsulates religious techniques, histories and distinctions in orthodox ver
 Theology is a *modal* skill: theologians must choose a **world religion** to study when investing knowledge points.
 Theology knowledge points provide halved bonuses for religions outside of a theologian's specialty.
 
-**Clerics** and **paladins** can study theology.
+[Clerics](./wiki/characters/cleric.md) and [paladins](./wiki/characters/paladin.md) can study theology.
 
 ## World Religions
 

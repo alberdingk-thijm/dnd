@@ -62,6 +62,7 @@ For all other political entities, her knowledge is considered to be a 3.
 * History
 * Instruction
 * Interrogation
+* Jack of all trades
 * Law
 * Linguistics
 * Logic

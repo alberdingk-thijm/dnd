@@ -30,9 +30,9 @@ Fighters benefit from high constitution and dexterity scores.
 
 Fighters use **10-sided hit dice**.
 
-Fighters can use any form of weapon or armour.
-Fighters begin with **four weapon proficiencies** and take a -2 penalty "to hit" when using a weapon with which they are not proficient.
+Fighters may use any form of weapon or armour.
 
+Fighters begin with **four weapon proficiencies** and take a -2 penalty "to hit" when using a weapon with which they are not proficient.
 A new weapon proficiency is gained for every three levels above the first.
 
 Fighters can employ many magical items, including potions, protection scrolls, many rings and other magic items; and all forms of armour, shields and weapons.

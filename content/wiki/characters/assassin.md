@@ -23,6 +23,9 @@ Assassins are entitled to exceptional strength and to constitution bonuses.
 An assassin with an 18 strength is able to roll a d100 for exceptional strength and consult the [strength table](./wiki/characters/ability-scores.md#strength-table-ii-ability-adjustments) for additional bonuses.
 For purposes of reducing or increasing an assassin's strength score, each percentile bracket counts as an additional point of strength: hence, an assassin with an 18/66 strength would become an assassin with an 18/01 strength upon losing one point of strength, or an assassin with an 18/76 strength upon gaining a point of strength (the exact percentile is irrelevant).
 
+Assassins with 17 constitution receive +3 hit points on each hit die.
+Assassins with 18 constitution receive +4 hit points on each hit die.
+
 As close quarters fighters, assassins benefit from a high constitution.
 
 ## Combat
@@ -44,7 +47,7 @@ Assassins are not inherently **literate**.
 
 All assassins have the ability to **assassinate** an enemy.
 
-Skills available to assassins include **anatomy**, **athletics**, **backstabbing**, **burglary**, **dog training**, **falconry**, **guile**, **interrogation**, **perception**, **poisoning**, **riding**, **stealth**, **subterfuge**, **traps** and **unarmed combat**.
+Skills available to assassins include **anatomy**, **athletics**, **backstabbing**, **burglary**, **dog training**, **falconry**, **guile**, **interrogation**, **jack of all trades**, **perception**, **poisons**, **riding**, **stealth**, **subterfuge**, **traps** and **unarmed combat**.
 
 At first level, assassins gain 6 knowledge points plus any intelligence bonuses.
 Assassins gain 1d6 knowledge points per level.

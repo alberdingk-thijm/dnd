@@ -10,7 +10,7 @@ It deals with the decay and preservation of the body, resurrection and the soul.
 
 Although necromancy is connected to religious notions, as resurrection and the undead are real, non-religious entities, a particular religious lens is not necessary to comprehend it.
 
-**Clerics** and **paladins** can study necromancy.
+[Clerics](./wiki/characters/cleric.md) and [paladins](./wiki/characters/paladin.md) can study necromancy.
 
 ## Tree
 

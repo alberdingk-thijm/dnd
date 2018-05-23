@@ -8,7 +8,7 @@ date = 2018-05-22
 Astrology and astronomy are the study of celestial objects' scientific and spiritual meanings.
 It allows for the creation of calendar systems and the divination of terrestrial events.
 
-**Clerics**, **mages** and **illusionists** can study astrology.
+[Clerics](./wiki/characters/cleric.md), [mages](./wiki/characters/mage.md) and [illusionists](./wiki/characters/illusionist.md) can study astrology.
 
 ## Tree
 

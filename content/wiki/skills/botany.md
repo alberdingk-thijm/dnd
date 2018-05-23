@@ -8,7 +8,7 @@ date = 2018-05-22
 Botany is the study of plants and plantlike creatures.
 It has many subareas, including dendrology, mycology, floriculture, agrostology and herbalism.
 
-**Druids** can study botany.
+[Druids](./wiki/characters/druid.md) can study botany.
 
 ## Tree
 

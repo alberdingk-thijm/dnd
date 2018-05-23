@@ -19,7 +19,6 @@ Anything not referenced here can most likely be found there.
 
 * [Ability Scores](./wiki/characters/ability-scores.md)
 * [Races](./wiki/characters/races.md)
-* [Skills](./wiki/characters/skills.md)
 
 ### Classes
 * [Assassin](./wiki/characters/assassin.md)
@@ -30,11 +29,12 @@ Anything not referenced here can most likely be found there.
 * [Illusionist](./wiki/characters/illusionist.md)
 * [Mage](./wiki/characters/mage.md)
 * [Monk](./wiki/characters/monk.md)
-* Paladin
+* [Paladin](./wiki/characters/paladin.md)
 * Ranger
 * Thief
 
 ### Skills
+* [All Skills](./wiki/skills/all-skills.md)
 * [Acrobatics](./wiki/skills/acrobatics.md)
 * [Alchemy](./wiki/skills/alchemy.md)
 * [Architecture](./wiki/skills/architecture.md)

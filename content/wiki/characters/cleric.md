@@ -93,7 +93,7 @@ Clerics must rest overnight and pray before recovering their spells.
 
 <table>
   <tr> <th rowspan="2">Cleric Level</th> <th colspan="7">Spell Level</th> </tr>
-  <tr> <td>1</td> <td>2</td> <td>3</td> <td>4</td> <td>5</td> <td>6</td> <td>7</td> </tr>
+  <tr> <th>1</th> <th>2</th> <th>3</th> <th>4</th> <th>5</th> <th>6</th> <th>7</th> </tr>
   <tr> <td>1</td> <td>+1</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
   <tr> <td>2</td> <td>+1</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
   <tr> <td>3</td> <td></td> <td>+1</td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>

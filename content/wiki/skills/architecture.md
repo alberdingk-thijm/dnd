@@ -9,9 +9,9 @@ Architecture is the study of planning, designing and constructing buildings and 
 Architects study how to design structures to be stronger, more impressive or more aesthetically pleasing.
 Architecture overlaps with engineering, mathematics and art.
 
-**Bards** who specialize in architecture are understood to naturally gain architecture abilities as they level, without spending knowledge points.
+[Bards](./wiki/characters/bard.md) who specialize in architecture are understood to naturally gain architecture abilities as they level, without spending knowledge points.
 
-**Mages** and **illusionists** can study architecture.
+[Mages](./wiki/characters/mage.md) and [illusionists](./wiki/characters/illusionist.md) can study architecture.
 
 ## Tree
 
