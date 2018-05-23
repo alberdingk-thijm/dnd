@@ -35,9 +35,9 @@ Mages can use virtually any magic items.
 
 Under normal circumstances, mages are able to **read**.
 
-Skills available to mages include **alchemy**, **architecture**, **astrology**, **astronomy**, **cosmology**, **dialectics**, **engineering**, **folklore**, **geology**, **history**, **law**, **linguistics**, **mathematics**, **mercantilism**, **occultism**, **philosophy**, **physics** and **politics**.
+Skills available to mages include **alchemy**, **architecture**, **astrology & astronomy**, **cosmology**, **engineering**, **folklore**, **geology**, **history**, **law**, **linguistics**, **logic**, **mathematics**, **mercantilism**, **occultism**, **philosophy**, **physics** and **politics**.
 
-At first level, mages gain 12 knowledge points plus any intelligence bonuses.
+At first level, mages gain 10 knowledge points plus any intelligence bonuses.
 Mages gain 1d6 knowledge points per level.
 
 ## Experience Table

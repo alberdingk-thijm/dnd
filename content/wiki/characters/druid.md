@@ -43,7 +43,19 @@ Druids are not inherently **literate**.
 
 All druids have the **shapeshifting** and **animal friendship** skills.
 
-Skills available to druids include **alchemy**, **anatomy**, **astronomy**, **botany**, **cosmology**, **folklore**, **geography**, **geology**, **golemancy**, **medicine**, **oceanography** and **zoology**.
+Skills available to druids include:
+* [alchemy](./wiki/skills/alchemy.md)
+* **anatomy**
+* [astrology & astronomy](./wiki/skills/astrology.md)
+* [botany](./wiki/skills/botany.md)
+* **cosmology**
+* [folklore](./wiki/skills/folklore.md)
+* **geography**
+* **geology**
+* **golemancy**
+* **medicine**
+* **oceanography**
+* **zoology**
 
 At first level, druids gain 6 knowledge points plus any intelligence bonuses.
 Druids gain 1d6 knowledge points per level.

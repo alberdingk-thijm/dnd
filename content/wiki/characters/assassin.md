@@ -49,7 +49,6 @@ Skills available to assassins include **anatomy**, **athletics**, **backstabbing
 At first level, assassins gain 6 knowledge points plus any intelligence bonuses.
 Assassins gain 1d6 knowledge points per level.
 
-
 ## Experience Table
 
 Assassins are limited to 15 levels.
@@ -57,18 +56,18 @@ Assassins are limited to 15 levels.
 <table>
 <tr><th>Level</th><th>Min. XP</th><th>HD</th></tr>
 <tr><td>1</td><td>0</td><td>1</td></tr>
-<tr><td>2</td><td>1751</td><td>2</td></tr>
-<tr><td>3</td><td>3501</td><td>3</td></tr>
-<tr><td>4</td><td>7501</td><td>4</td></tr>
-<tr><td>5</td><td>15001</td><td>5</td></tr>
-<tr><td>6</td><td>30001</td><td>6</td></tr>
-<tr><td>7</td><td>60001</td><td>7</td></tr>
-<tr><td>8</td><td>115001</td><td>8</td></tr>
-<tr><td>9</td><td>230001</td><td>9</td></tr>
-<tr><td>10</td><td>425001</td><td>10</td></tr>
-<tr><td>11</td><td>650001</td><td>11</td></tr>
-<tr><td>12</td><td>850001</td><td>12</td></tr>
-<tr><td>13</td><td>1050001</td><td>13</td></tr>
-<tr><td>14</td><td>1275001</td><td>14</td></tr>
-<tr><td>15</td><td>1750001</td><td>15</td></tr>
+<tr><td>2</td><td>1,751</td><td>2</td></tr>
+<tr><td>3</td><td>3,501</td><td>3</td></tr>
+<tr><td>4</td><td>7,501</td><td>4</td></tr>
+<tr><td>5</td><td>15,001</td><td>5</td></tr>
+<tr><td>6</td><td>30,001</td><td>6</td></tr>
+<tr><td>7</td><td>60,001</td><td>7</td></tr>
+<tr><td>8</td><td>115,001</td><td>8</td></tr>
+<tr><td>9</td><td>230,001</td><td>9</td></tr>
+<tr><td>10</td><td>425,001</td><td>10</td></tr>
+<tr><td>11</td><td>650,001</td><td>11</td></tr>
+<tr><td>12</td><td>850,001</td><td>12</td></tr>
+<tr><td>13</td><td>1,050,001</td><td>13</td></tr>
+<tr><td>14</td><td>1,275,001</td><td>14</td></tr>
+<tr><td>15</td><td>1,750,001</td><td>15</td></tr>
 </table>

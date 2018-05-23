@@ -42,6 +42,7 @@ For all other political entities, her knowledge is considered to be a 3.
 * Assassination
 * Astrology & Astronomy
 * Athletics
+* Attunement
 * Backstabbing
 * Botany
 * Burglary
