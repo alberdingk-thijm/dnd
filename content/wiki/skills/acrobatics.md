@@ -10,7 +10,7 @@ It encapsulates many gymnastic abilities and control available to characters.
 
 [Bards](./wiki/characters/bard.md) who specialize in acrobatics are understood to naturally gain acrobatics abilities as they level, without spending knowledge points.
 
-[Monks](./wiki/characters/monk.md) and **thieves** can study acrobatics.
+[Monks](./wiki/characters/monk.md) and [thieves](./wiki/characters/thief.md) can study acrobatics.
 
 ## Tree
 

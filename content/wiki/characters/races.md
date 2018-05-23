@@ -70,7 +70,7 @@ Scores are listed from minimum to maximum.
 
 ### Dwarves
 
-Dwarves can be [clerics](./wiki/characters/cleric.md), [fighters](./wiki/characters/fighter.md), **thieves** and [assassins](./wiki/characters/assassin.md), or any multi-classed combination of these races.
+Dwarves can be [clerics](./wiki/characters/cleric.md), [fighters](./wiki/characters/fighter.md), [thieves](./wiki/characters/thief.md) and [assassins](./wiki/characters/assassin.md), or any multi-classed combination of these races.
 
 Because of their very nature, dwarves are non-magical and do not ever use magical spells. However, this nature gives them a bonus with regard to their saving throws against attacks by magic wands, staves, rods and spells. This bonus is +1 for every 3½ points of constitution ability. Thus, if a dwarf had a constitution of 7 they would gain a +2 on dice rolls made as saving throws, at 14 constitution the bonus would be +4, and at 18 constitution the bonus would be the maximum normally possible, +5.
 
@@ -103,7 +103,7 @@ Thus, a dwarf character may have additional dwarven henchmen up to their maximum
 
 ### Elves
 
-Elves can be [clerics](./wiki/characters/cleric.md), [fighters](./wiki/characters/fighter.md), [rangers](./wiki/characters/ranger.md), [mages](./wiki/characters/mage.md), **thieves**, and [assassins](./wiki/characters/assassin.md), or any multi-classed combination of these races.
+Elves can be [clerics](./wiki/characters/cleric.md), [fighters](./wiki/characters/fighter.md), [rangers](./wiki/characters/ranger.md), [mages](./wiki/characters/mage.md), [thieves](./wiki/characters/thief.md), and [assassins](./wiki/characters/assassin.md), or any multi-classed combination of these races.
 
 Elven characters have a 90% **resistance to sleep and charm** spells (if these spells are cast upon them a percentile dice roll of 91% or better is required to allow the magic any chance of having an effect, and even then the saving throw against spells is allowed versus the charm spell).
 
@@ -119,7 +119,7 @@ If alone and not in metal armour (or if well in advance – 90’ or more – of
 
 ### Gnomes
 
-Gnomes can be [clerics](./wiki/characters/cleric.md), [fighters](./wiki/characters/fighter.md), [illusionists](./wiki/characters/illusionist.md), **thieves**, and [assassins](./wiki/characters/assassin.md), or any multi-classed combination of these races.
+Gnomes can be [clerics](./wiki/characters/cleric.md), [fighters](./wiki/characters/fighter.md), [illusionists](./wiki/characters/illusionist.md), [thieves](./wiki/characters/thief.md), and [assassins](./wiki/characters/assassin.md), or any multi-classed combination of these races.
 
 Similar to their cousins, the dwarves, gnomes are highly **resistant to magic**. A gnome player character gains a bonus with regard to their saving throws against attacks by magic wands, staves, rods and spells. This bonus is +1 for every 3½ points of constitution ability, the same as for dwarven characters.
 
@@ -144,7 +144,7 @@ In **melee combat**, gnome characters add 1 to their dice rolls to hit opponents
 
 ### Half-elves
 
-Half-elves can be [clerics](./wiki/characters/cleric.md), [druids](./wiki/characters/druid.md), [fighters](./wiki/characters/fighter.md), [rangers](./wiki/characters/ranger.md), [mages](./wiki/characters/mage.md), **thieves**, [assassins](./wiki/characters/assassin.md) and [bards](./wiki/characters/bard.md), or any multi-classed combination of these races.
+Half-elves can be [clerics](./wiki/characters/cleric.md), [druids](./wiki/characters/druid.md), [fighters](./wiki/characters/fighter.md), [rangers](./wiki/characters/ranger.md), [mages](./wiki/characters/mage.md), [thieves](./wiki/characters/thief.md), [assassins](./wiki/characters/assassin.md) and [bards](./wiki/characters/bard.md), or any multi-classed combination of these races.
 
 Half-elven characters have a 30% **resistance to sleep and charm** spells (if these spells are cast upon them a percentile dice roll of 31% or better is required to allow the magic any chance of having an effect, and even then the saving throw against spells is allowed versus the charm spell).
 
@@ -157,7 +157,7 @@ Secret or concealed doors are difficult to hide from half-elves, just as they ar
 
 ### Halflings
 
-Halflings can be [clerics](./wiki/characters/cleric.md), [druids](./wiki/characters/druid.md), [fighters](./wiki/characters/fighter.md) and **thieves**, or any multi-classed combination of these races.
+Halflings can be [clerics](./wiki/characters/cleric.md), [druids](./wiki/characters/druid.md), [fighters](./wiki/characters/fighter.md) and [thieves](./wiki/characters/thief.md), or any multi-classed combination of these races.
 
 All halfling characters have a high **resistance to magic spells**, so for every 3½ points of constitution ability the character possesses, they gain a +1 on saving throws versus wands, staves, rods, and spells, as with dwarves and gnomes.
 
@@ -174,7 +174,7 @@ If alone (or well in advance – 90’ or more – of a party which does not con
 
 ### Half-orcs
 
-Half-orcs can be [clerics](./wiki/characters/cleric.md), [fighters](./wiki/characters/fighter.md), **thieves** and [assassins](./wiki/characters/assassin.md), or any multi-classed combination of these races.
+Half-orcs can be [clerics](./wiki/characters/cleric.md), [fighters](./wiki/characters/fighter.md), [thieves](./wiki/characters/thief.md) and [assassins](./wiki/characters/assassin.md), or any multi-classed combination of these races.
 
 Half-orc characters are able to speak the “common tongue” of humanity and orcish as well. These characters are able to learn a maximum of two additional languages.
 
@@ -185,4 +185,4 @@ Although half-orcs subtract 2 from their charisma, this penalty is in regard to 
 
 ### Humans
 
-Humans can be [clerics](./wiki/characters/cleric.md), [druids](./wiki/characters/druid.md), [fighters](./wiki/characters/fighter.md), [paladins](./wiki/characters/paladin.md), [rangers](./wiki/characters/ranger.md), [mages](./wiki/characters/mage.md), [illusionists](./wiki/characters/illusionist.md), **thieves**, [assassins](./wiki/characters/assassin.md), [monks](./wiki/characters/monk.md) and [bards](./wiki/characters/bard.md), or any multi-classed combination of these races.
+Humans can be [clerics](./wiki/characters/cleric.md), [druids](./wiki/characters/druid.md), [fighters](./wiki/characters/fighter.md), [paladins](./wiki/characters/paladin.md), [rangers](./wiki/characters/ranger.md), [mages](./wiki/characters/mage.md), [illusionists](./wiki/characters/illusionist.md), [thieves](./wiki/characters/thief.md), [assassins](./wiki/characters/assassin.md), [monks](./wiki/characters/monk.md) and [bards](./wiki/characters/bard.md), or any multi-classed combination of these races.

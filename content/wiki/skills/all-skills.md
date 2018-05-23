@@ -53,7 +53,6 @@ For all other political entities, her knowledge is considered to be a 3.
 * Engineering
 * Falconry
 * Folklore
-* Forgery
 * Geography
 * Geology
 * Golemancy
