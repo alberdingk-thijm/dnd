@@ -27,9 +27,9 @@ Anything not referenced here can most likely be found there.
 * [Cleric](./wiki/characters/cleric.md)
 * [Druid](./wiki/characters/druid.md)
 * [Fighter](./wiki/characters/fighter.md)
-* Illusionist
+* [Illusionist](./wiki/characters/illusionist.md)
 * [Mage](./wiki/characters/mage.md)
-* Monk
+* [Monk](./wiki/characters/monk.md)
 * Paladin
 * Ranger
 * Thief
