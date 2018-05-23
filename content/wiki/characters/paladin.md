@@ -36,6 +36,8 @@ A new weapon proficiency is gained for every three levels above the first.
 
 Paladins can employ many magical items, including potions, protection scrolls, many rings and other magic items; and all forms of armour, shields and weapons.
 
+Paladins gain a +2 bonus to all **saving throws**.
+
 As they advance in level, paladins gain the ability to make multiple attacks per round.
 The progression of this ability is as follows:
 
@@ -57,6 +59,9 @@ The progression of this ability is as follows:
 </table>
 
 Hence, a 5th level paladin can attack once a round for three rounds and twice in the fourth round.
+
+Once reaching fifth level, paladins' attacks are all considered to cost 1 AP.
+Note that they can still only perform the given number of attacks per round, regardless of AP cost.
 
 ## Skills
 
@@ -90,7 +95,7 @@ Paladins gain 1d6 knowledge points per level.
 <tr><td>11</td><td>1,050,001</td><td>9+6</td></tr>
 </table>
 
-350,000 experience points per level for each additional level above 11th.
+350,000 experience points are required for each additional level above 11th.
 
 Paladins gain 3 h.p. per level above 9th.
 
@@ -107,7 +112,7 @@ Like clerics, paladins must rest overnight and pray before recovering their spel
 ### Paladin Spell Table
 
 <table>
-<tr><th rowspan="2">Paladin Level</th> <th colspan="4">Clerical Spell Level</th></tr>
+<tr><th rowspan="2">Paladin Level</th> <th colspan="4">Cleric Spell Level</th></tr>
 <tr><th>1</th> <th>2</th> <th>3</th> <th>4</th></tr>
 <tr><td>9</td> <td>+1</td> <td></td> <td></td> <td></td></tr>
 <tr><td>10</td> <td>+1</td> <td></td> <td></td> <td></td></tr>

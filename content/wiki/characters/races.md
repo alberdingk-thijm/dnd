@@ -103,7 +103,7 @@ Thus, a dwarf character may have additional dwarven henchmen up to their maximum
 
 ### Elves
 
-Elves can be [clerics](./wiki/characters/cleric.md), [fighters](./wiki/characters/fighter.md), **rangers**, [mages](./wiki/characters/mage.md), **thieves**, and [assassins](./wiki/characters/assassin.md), or any multi-classed combination of these races.
+Elves can be [clerics](./wiki/characters/cleric.md), [fighters](./wiki/characters/fighter.md), [rangers](./wiki/characters/ranger.md), [mages](./wiki/characters/mage.md), **thieves**, and [assassins](./wiki/characters/assassin.md), or any multi-classed combination of these races.
 
 Elven characters have a 90% **resistance to sleep and charm** spells (if these spells are cast upon them a percentile dice roll of 91% or better is required to allow the magic any chance of having an effect, and even then the saving throw against spells is allowed versus the charm spell).
 
@@ -144,7 +144,7 @@ In **melee combat**, gnome characters add 1 to their dice rolls to hit opponents
 
 ### Half-elves
 
-Half-elves can be [clerics](./wiki/characters/cleric.md), [druids](./wiki/characters/druid.md), [fighters](./wiki/characters/fighter.md), **rangers**, [mages](./wiki/characters/mage.md), **thieves**, [assassins](./wiki/characters/assassin.md) and [bards](./wiki/characters/bard.md), or any multi-classed combination of these races.
+Half-elves can be [clerics](./wiki/characters/cleric.md), [druids](./wiki/characters/druid.md), [fighters](./wiki/characters/fighter.md), [rangers](./wiki/characters/ranger.md), [mages](./wiki/characters/mage.md), **thieves**, [assassins](./wiki/characters/assassin.md) and [bards](./wiki/characters/bard.md), or any multi-classed combination of these races.
 
 Half-elven characters have a 30% **resistance to sleep and charm** spells (if these spells are cast upon them a percentile dice roll of 31% or better is required to allow the magic any chance of having an effect, and even then the saving throw against spells is allowed versus the charm spell).
 
@@ -185,4 +185,4 @@ Although half-orcs subtract 2 from their charisma, this penalty is in regard to 
 
 ### Humans
 
-Humans can be [clerics](./wiki/characters/cleric.md), [druids](./wiki/characters/druid.md), [fighters](./wiki/characters/fighter.md), [paladins](./wiki/characters/paladin.md), **rangers**, [mages](./wiki/characters/mage.md), [illusionists](./wiki/characters/illusionist.md), **thieves**, [assassins](./wiki/characters/assassin.md), [monks](./wiki/characters/monk.md) and [bards](./wiki/characters/bard.md), or any multi-classed combination of these races.
+Humans can be [clerics](./wiki/characters/cleric.md), [druids](./wiki/characters/druid.md), [fighters](./wiki/characters/fighter.md), [paladins](./wiki/characters/paladin.md), [rangers](./wiki/characters/ranger.md), [mages](./wiki/characters/mage.md), [illusionists](./wiki/characters/illusionist.md), **thieves**, [assassins](./wiki/characters/assassin.md), [monks](./wiki/characters/monk.md) and [bards](./wiki/characters/bard.md), or any multi-classed combination of these races.

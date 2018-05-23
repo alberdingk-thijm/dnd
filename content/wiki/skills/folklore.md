@@ -11,7 +11,7 @@ It encompasses a rich oral tradition of poems, epics, songs and other artistic w
 Folklore is a *modal* skill: folklorists must choose a **world region** to study when investing knowledge points.
 Folklore knowledge points provide halved bonuses for regions outside of a folklorist's specialty.
 
-[Bards](./wiki/characters/bard.md), [clerics](./wiki/characters/cleric.md), [druids](./wiki/characters/druid.md), [monks](./wiki/characters/monk.md) and **rangers** can study folklore.
+[Bards](./wiki/characters/bard.md), [clerics](./wiki/characters/cleric.md), [druids](./wiki/characters/druid.md), [monks](./wiki/characters/monk.md) and [rangers](./wiki/characters/ranger.md) can study folklore.
 
 ## World Regions
 

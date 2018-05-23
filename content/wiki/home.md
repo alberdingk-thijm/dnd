@@ -30,7 +30,7 @@ Anything not referenced here can most likely be found there.
 * [Mage](./wiki/characters/mage.md)
 * [Monk](./wiki/characters/monk.md)
 * [Paladin](./wiki/characters/paladin.md)
-* Ranger
+* [Ranger](./wiki/characters/ranger.md)
 * Thief
 
 ### Skills

@@ -8,7 +8,7 @@ date = 2018-05-22
 Athletics is the practice of sport and fitness.
 It represents a character's ability to push their bodies past normal limits and perform feats of strength.
 
-[Assassins](./wiki/characters/assassin.md), [fighters](./wiki/characters/fighter.md), [monks](./wiki/characters/monk.md), [paladins](./wiki/characters/paladin.md), **rangers** and **thieves** can study athletics.
+[Assassins](./wiki/characters/assassin.md), [fighters](./wiki/characters/fighter.md), [monks](./wiki/characters/monk.md), [paladins](./wiki/characters/paladin.md), [rangers](./wiki/characters/ranger.md) and **thieves** can study athletics.
 
 ## Tree
 
