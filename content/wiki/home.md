@@ -31,7 +31,7 @@ Anything not referenced here can most likely be found there.
 * [Monk](./wiki/characters/monk.md)
 * [Paladin](./wiki/characters/paladin.md)
 * [Ranger](./wiki/characters/ranger.md)
-* Thief
+* [Thief](./wiki/characters/thief.md)
 
 ### Skills
 * [All Skills](./wiki/skills/all-skills.md)
