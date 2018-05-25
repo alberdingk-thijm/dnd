@@ -73,10 +73,28 @@ All paladins have the ability to **lay on hands**.
 
 All paladins emanate a 1-hex (5') aura of **protection from malevolence**.
 
-Skills available to paladins include **athletics**, **discipline**, **dog training**, **falconry**, **heraldry**, **logistics**, **necromancy**, **organization**, **perception**, **puissance**, **riding**, **theology** and **unarmed combat**.
+Skills available to paladins include:
+* **athletics**
+* **discipline**
+* **dog training**
+* **falconry**
+* **heraldry**
+* **logistics**
+* **necromancy**
+* **organization**
+* **perception**
+* **puissance**
+* **riding**
+* **swimming**
+* **theology**
+* **unarmed combat**
 
 At first level, paladins gain 6 knowledge points plus any intelligence bonuses.
 Paladins gain 1d6 knowledge points per level.
+
+### Lay on Hands
+
+
 
 ## Experience Table
 

@@ -66,7 +66,6 @@ For all other political entities, her knowledge is considered to be a 3.
 * Linguistics
 * Logic
 * Logistics
-* Martial arts
 * Mathematics
 * Medicine
 * Mercantilism
@@ -82,14 +81,14 @@ For all other political entities, her knowledge is considered to be a 3.
 * Poisons
 * Politics
 * Puissance
-* Religious architecture
-* Religious art & music
+* Religious artistry
 * Riding
 * Rituals
 * Scouting
+* Seamanship
 * Shapeshifting
-* Stealth
-* Subterfuge
+* Sure-footedness
+* Swimming
 * Theology
 * Transmogrification
 * Traps

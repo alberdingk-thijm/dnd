@@ -55,6 +55,7 @@ Skills available to druids include:
 * **golemancy**
 * **medicine**
 * **oceanography**
+* **swimming**
 * **zoology**
 
 At first level, druids gain 6 knowledge points plus any intelligence bonuses.

@@ -34,7 +34,20 @@ A new weapon proficiency is gained for every four levels above the first.
 
 Thieves are not inherently **literate**.
 
-Skills available to thieves include **acrobatics**, **athletics**, **backstabbing**, **burglary**, **craftsmanship**, **guile**, **jack of all trades**, **perception**, **stealth**, **subterfuge**, **traps** and **unarmed combat**.
+Skills available to thieves include:
+* **acrobatics**
+* **athletics**
+* **backstabbing**
+* **burglary**
+* **craftsmanship**
+* **guile**
+* **jack of all trades**
+* **perception**
+* **stealth**
+* **sure-footedness**
+* **swimming**
+* **traps**
+* **unarmed combat**
 
 At first level, thieves have 6 knowledge points plus any intelligence bonuses.
 Thieves gain 1d6 knowledge points per level.

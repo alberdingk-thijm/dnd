@@ -35,7 +35,20 @@ Under normal circumstances, monks are able to **read**.
 
 All monks have the ability to perform **open hand attacks**.
 
-Skills available to monks include **acrobatics**, **anatomy**, **attunement**, **athletics**, **discipline**, **folklore**, **mindfulness**, **perception**, **puissance**, **subterfuge**, **traps** and **unarmed combat**.
+Skills available to monks include:
+* **acrobatics**
+* **anatomy**
+* **attunement**
+* **athletics**
+* **discipline**
+* **folklore**
+* **mindfulness**
+* **perception**
+* **puissance**
+* **sure-footedness**
+* **swimming**
+* **traps**
+* **unarmed combat**
 
 At first level, monks gain 8 knowledge points plus any intelligence bonuses.
 Monks gain 1d6 knowledge points per level.

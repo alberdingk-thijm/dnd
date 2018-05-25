@@ -43,6 +43,7 @@ Under normal circumstances, clerics are able to **read**.
 
 Skills available to clerics include:
 * [astrology & astronomy](./wiki/skills/astrology.md)
+* **cosmology**
 * [folklore](./wiki/skills/folklore.md)
 * **heraldry**
 * **history**
@@ -50,9 +51,9 @@ Skills available to clerics include:
 * **logic**
 * **medicine**
 * [necromancy](./wiki/skills/necromancy.md)
+* **philosophy**
 * **politics**
-* **religious architecture**
-* **religious art & music**
+* **religious artistry**
 * **rituals**
 * [theology](./wiki/skills/theology.md)
 
