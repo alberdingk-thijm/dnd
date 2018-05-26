@@ -12,9 +12,9 @@ It covers the disciplines of transmutation, the manipulation of the cardinal ele
 
 ## Tree
 
-* *Lesser Transmutation* (5 ranks): allows characters to perform simple transmutations of base metals
-* *Elementalism* (4 ranks): improves characters' control of and resistance to elemental magic
-* *Solvents* (2 ranks): allows characters to develop alchemical solvents to dissolve materials into their elemental components
-* *Alchemical Vitality* (3 ranks): allows characters to prolong life and to imbue life into plants or homunculi
-* *Greater Transmutation* (5 ranks): allows character to perform complex transmutations to produce magical metals
-* *Philosopher's Stone* (1 rank): allows characters to produce a *philosopher's stone*, a necessary component for advanced alchemy
+* *Lesser Transmutation*: allows characters to perform simple transmutations of base metals
+* *Elementalism*: improves characters' control of and resistance to elemental magic
+* *Solvents*: allows characters to develop alchemical solvents to dissolve materials into their elemental components
+* *Alchemical Vitality*: allows characters to prolong life and to imbue life into plants or homunculi
+* *Greater Transmutation*: allows character to perform complex transmutations to produce magical metals
+* *Philosopher's Stone*: allows characters to produce a *philosopher's stone*, a necessary component for advanced alchemy

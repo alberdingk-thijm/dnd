@@ -33,13 +33,11 @@ For all other political entities, her knowledge is considered to be a 3.
 
 ## List of All Skills
 
-* Acrobatics
-* Alchemy
-* Anatomy
+* [Acrobatics](./wiki/skills/acrobatics.md)
+* [Alchemy](./wiki/skills/alchemy.md)
 * Animal friendship
-* Architecture
+* [Architecture](./wiki/skills/architecture.md)
 * Artistry
-* Assassination
 * Astrology & Astronomy
 * Athletics
 * Attunement
@@ -48,38 +46,42 @@ For all other political entities, her knowledge is considered to be a 3.
 * Burglary
 * Cosmology
 * Craftsmanship
+* Creativity
 * Discipline
+* Divination
 * Dog training
 * Engineering
 * Falconry
 * Folklore
+* Fraud
 * Geography
 * Geology
 * Golemancy
 * Guile
 * Heraldry
 * History
+* Hunting
+* Inspiration
 * Instruction
-* Interrogation
 * Jack of all trades
 * Law
 * Linguistics
-* Logic
 * Logistics
-* Mathematics
+* Mechanics
 * Medicine
 * Mercantilism
 * Mindfulness
+* Murder
+* Natural astronomy
 * Necromancy
 * Oceanography
-* Occultism
 * Organization
 * Perception
 * Performance
 * Philosophy
 * Physics
-* Poisons
 * Politics
+* Protection
 * Puissance
 * Religious artistry
 * Riding
@@ -88,7 +90,6 @@ For all other political entities, her knowledge is considered to be a 3.
 * Seamanship
 * Shapeshifting
 * Sure-footedness
-* Swimming
 * Theology
 * Transmogrification
 * Traps

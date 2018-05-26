@@ -44,11 +44,11 @@ Under normal circumstances, clerics are able to **read**.
 Skills available to clerics include:
 * [astrology & astronomy](./wiki/skills/astrology.md)
 * **cosmology**
+* **divination**
 * [folklore](./wiki/skills/folklore.md)
 * **heraldry**
 * **history**
 * **law**
-* **logic**
 * **medicine**
 * [necromancy](./wiki/skills/necromancy.md)
 * **philosophy**
@@ -58,6 +58,8 @@ Skills available to clerics include:
 * [theology](./wiki/skills/theology.md)
 
 At first level, clerics gain 6 knowledge points plus any intelligence bonuses.
+At first level, clerics automatically gain 2 knowledge points in [necromancy](./wiki/skills/necromancy.md).
+
 Clerics gain 1d6 knowledge points per level.
 
 ## Experience Table

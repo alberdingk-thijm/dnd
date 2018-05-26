@@ -51,21 +51,22 @@ Others are only available within a specific subset of forms.
 Skills available to bards include:
 * **artistry**
 * **craftsmanship**
+* **creativity**
 * **engineering**
 * [folklore](./wiki/skills/folklore.md)
 * **heraldry**
 * **history**
+* **inspiration**
 * **instruction**
 * **linguistics**
-* **logic**
-* **logistics**
-* **mathematics**
 * **performance**
 * **philosophy**
-* **transmogrification**
+* **physics**
+* **politics**
 
-At first level, bards gain 8 knowledge points plus any intelligence bonuses.
-Bards gain 1d8 knowledge points per level.
+At first level, bards gain 6 knowledge points plus any intelligence bonuses.
+At first level, bards automatically gain 2 points in **performance** and 2 points in **inspiration**.
+Bards gain 1d6 knowledge points per level.
 
 ### Martial Music
 

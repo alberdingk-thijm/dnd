@@ -14,8 +14,8 @@ It encapsulates many gymnastic abilities and control available to characters.
 
 ## Tree
 
-* *Gymnastics* (6 ranks): allows characters to perform gymnastic abilities
-* *Improved Leaping* (4 ranks): improves characters' ability to jump farther and higher
-* *Catlike Reflexes* (3 ranks): allows characters to avoid fall damage
-* *Contortion* (2 ranks): allows character to fit into tight spaces
-* *Aerial Acrobatics* (3 ranks): allows characters to perform acrobatics in midair
+* *Gymnastics*: allows characters to perform gymnastic abilities
+* *Improved Leaping*: improves characters' ability to jump farther and higher
+* *Catlike Reflexes*: allows characters to avoid fall damage
+* *Contortion*: allows character to fit into tight spaces
+* *Aerial Acrobatics*: allows characters to perform acrobatics in midair

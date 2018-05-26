@@ -67,29 +67,25 @@ Note that they can still only perform the given number of attacks per round, reg
 
 Rangers are not inherently **literate**.
 
-All rangers have **giant-stalking** abilities.
-
 Skills available to rangers include:
-* **athletics**
 * **animal friendship**
+* **athletics**
 * **discipline**
 * **folklore**
 * **geography**
-* **logistics**
-* **organization**
+* **hunting**
+* **oceanography**
 * **perception**
-* **seamanship**
+* **puissance**
+* **riding**
 * **scouting**
 * **sure-footedness**
-* **swimming**
 * **unarmed combat**
 
 At first level, rangers gain 6 knowledge points plus any intelligence bonuses.
+At first level, rangers gain 2 knowledge points in **hunting** and **scouting**.
+
 Rangers gain 1d6 knowledge points per level.
-
-### Giant-stalking
-
-
 
 ## Experience Table
 

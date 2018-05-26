@@ -38,9 +38,8 @@ Note that religions labelled "dead" may have only a very small number of present
 
 ## Tree
 
-* *Religious history* (4 ranks): provides characters with knowledge of the history of their religion
-* *Prayer* (4 ranks): allows characters to pray to the divine for aid or assistance
-* *Seclusion* (3 ranks): allows characters to seclude themselves for purposes of religious enlightenment
-* *Proselytize* (3 ranks): allows characters to encourage the adoption of their religion by others
-* *Preaching* (3 ranks): allows characters to conduct a sermon or lecture on religious teachings
-* *Zealotry* (3 ranks): improves characters' combat abilities versus enemies of their religion
+* *Religious history*: provides characters with knowledge of the history of their religion
+* *Prayer*: allows characters to pray to the divine for aid or assistance
+* *Proselytize*: allows characters to encourage the adoption of their religion by others
+* *Preaching*: allows characters to conduct a sermon or lecture on religious teachings
+* *Zealotry*: improves characters' combat abilities versus enemies of their religion

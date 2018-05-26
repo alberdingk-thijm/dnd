@@ -67,7 +67,7 @@ Note that they can still only perform the given number of attacks per round, reg
 Fighters are not inherently **literate**.
 
 Skills available to fighters include:
-* **athletics**
+* [athletics](./wiki/skills/athletics.md)
 * **discipline**
 * **dog training**
 * **falconry**
@@ -79,10 +79,10 @@ Skills available to fighters include:
 * **puissance**
 * **riding**
 * **seamanship**
-* **swimming**
 * **unarmed combat**
 
 At first level, fighters gain 6 knowledge points.
+
 Fighters gain 1d6 knowledge points per level.
 
 ## Experience Table

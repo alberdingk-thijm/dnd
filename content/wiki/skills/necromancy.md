@@ -14,8 +14,8 @@ Although necromancy is connected to religious notions, as resurrection and the u
 
 ## Tree
 
-* *Seance* (4 ranks): allows characters to recall memories of and commune with the deceased
-* *Restoration* (4 ranks): allows characters to improve creatures' odds of resurrection
-* *Mummification* (3 ranks): allows characters to identify mummies and perform mummifications
-* *Control of the Undead* (7 ranks): allows characters to turn the undead and gain combat bonuses against them
-* *Phylacteries* (2 ranks): allows characters to create a phylactery to store part of their soul, providing the possibility of cheating death
+* *Seance*: allows characters to recall memories of and commune with the deceased
+* *Restoration*: allows characters to improve creatures' odds of resurrection
+* *Mummification*: allows characters to identify mummies and perform mummifications
+* *Control of the Undead*: allows characters to turn the undead and gain combat bonuses against them
+* *Phylacteries*: allows characters to create a phylactery to store part of their soul, providing the possibility of cheating death

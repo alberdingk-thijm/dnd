@@ -39,17 +39,19 @@ Skills available to thieves include:
 * **athletics**
 * **backstabbing**
 * **burglary**
-* **craftsmanship**
+* **fraud**
 * **guile**
+* **instruction**
 * **jack of all trades**
+* **mechanics**
 * **perception**
-* **stealth**
 * **sure-footedness**
-* **swimming**
 * **traps**
 * **unarmed combat**
 
 At first level, thieves have 6 knowledge points plus any intelligence bonuses.
+At first level, thieves gain 2 knowledge points in **backstabbing** and **sure-footedness**.
+
 Thieves gain 1d6 knowledge points per level.
 
 ## Experience Table

@@ -45,30 +45,26 @@ Assassins may use any magic items available to **fighters**, barring items corre
 
 Assassins are not inherently **literate**.
 
-All assassins have the ability to **assassinate** an enemy.
-
 Skills available to assassins include:
 * [athletics](./wiki/skills/athletics.md)
 * **backstabbing**
-* **burglary**
+* **discipline**
 * **dog training**
 * **falconry**
 * **guile**
-* **interrogation**
 * **jack of all trades**
+* [murder](./wiki/skills/murder.md)
 * **perception**
-* **poisons**
+* **puissance**
 * **riding**
 * **sure-footedness**
-* **swimming**
 * **traps**
 * **unarmed combat**
 
 At first level, assassins gain 6 knowledge points plus any intelligence bonuses.
+At first level, assassins automatically gain 2 knowledge points in [murder](./wiki/skills/murder.md).
+
 Assassins gain 1d6 knowledge points per level.
-
-### Assassination
-
 
 ## Experience Table
 

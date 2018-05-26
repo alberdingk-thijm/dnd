@@ -27,7 +27,7 @@ Folklore knowledge points provide halved bonuses for regions outside of a folklo
 
 ## Tree
 
-* *Heroes* (5 ranks): allows characters to identify and tell folk stories of heroic figures, inspiring characters
-* *Beasts* (5 ranks): allows characters to identify and tell folk stories of monstrous beasts, improving characters' ability to fight such creatures
-* *Legends* (5 ranks): allows characters to identify and tell folk stories of legendary events
-* *Artifacts* (5 ranks): allows characters to identify and tell folk stories of magical artifacts
+* *Heroes*: allows characters to identify and tell folk stories of heroic figures, inspiring characters
+* *Beasts*: allows characters to identify and tell folk stories of monstrous beasts, improving characters' ability to fight such creatures
+* *Legends*: allows characters to identify and tell folk stories of legendary events
+* *Artifacts*: allows characters to identify and tell folk stories of magical artifacts

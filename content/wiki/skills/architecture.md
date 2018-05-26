@@ -15,7 +15,7 @@ Architecture overlaps with engineering, mathematics and art.
 
 ## Tree
 
-* *Identification* (5 ranks): allows characters to identify architectural style of a given structure, along with its possible strengths and weaknesses
-* *Urban Design* (5 ranks): allows characters to reason about the design and planning of villages, towns and cities to improve cultivation, irrigation, transport and health
-* *Fortifications* (5 ranks): allows characters to construct fortifications such as walls, towers and citadels
-* *Monuments* (5 ranks): allows characters to construct monuments such as statues, fountains and arches
+* *Identification*: allows characters to identify architectural style of a given structure, along with its possible strengths and weaknesses
+* *Urban Design*: allows characters to reason about the design and planning of villages, towns and cities to improve cultivation, irrigation, transport and health
+* *Fortifications*: allows characters to construct fortifications such as walls, towers and citadels
+* *Monuments*: allows characters to construct monuments such as statues, fountains and arches
