@@ -50,7 +50,7 @@ Skills available to druids include:
 * **geography**
 * **geology**
 * **golemancy**
-* **medicine**
+* [medicine](./wiki/skills/medicine.md)
 * **natural astronomy**
 * **oceanography**
 * **shapeshifting**

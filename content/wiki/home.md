@@ -11,7 +11,9 @@ Anything not referenced here can most likely be found there.
 
 ## Campaign
 
-* [World](./wiki/world.md)
+### Places
+* [Chur](./wiki/places/chur.md)
+* [World](./wiki/places/world.md)
 
 ## Player Characters
 
@@ -42,6 +44,7 @@ Anything not referenced here can most likely be found there.
 * [Athletics](./wiki/skills/athletics.md)
 * [Botany](./wiki/skills/botany.md)
 * [Folklore](./wiki/skills/folklore.md)
+* [Medicine](./wiki/skills/medicine.md)
 * [Necromancy](./wiki/skills/necromancy.md)
 * [Theology](./wiki/skills/theology.md)
 

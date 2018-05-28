@@ -49,7 +49,7 @@ Skills available to clerics include:
 * **heraldry**
 * **history**
 * **law**
-* **medicine**
+* [medicine](./wiki/skills/medicine.md)
 * [necromancy](./wiki/skills/necromancy.md)
 * **philosophy**
 * **politics**

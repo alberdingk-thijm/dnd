@@ -77,7 +77,7 @@ Intelligence is the major characteristic of mages, and those with intelligence o
 
 <table>
 <tr><th>Ability Score</th><th>General Information</th><th>Knowledge Adjustment</th></tr>
-<tr><td>3</td><td/><td>0</td>-3</tr>
+<tr><td>3</td><td/><td>0</td><td>-3</td></tr>
 <tr><td>4</td><td>Minimum intelligence for a <b>half-elf</b> character</td><td>-2</td></tr>
 <tr><td>5</td><td>Here or lower the character can only be a <b>fighter</b></td><td>-1</td></tr>
 <tr><td>6</td><td>Minimum intelligence for a <b>halfling</b> character</td><td>-1</td></tr>
