@@ -34,25 +34,25 @@ For all other political entities, her knowledge is considered to be a 3.
 ## List of All Skills
 
 * [Acrobatics](./wiki/skills/acrobatics.md)
+* [Aesthetics](./wiki/skills/aesthetics.md)
 * [Alchemy](./wiki/skills/alchemy.md)
-* Animal friendship
+* [Animal Friendship](./wiki/skills/animal-friendship.md)
 * [Architecture](./wiki/skills/architecture.md)
-* Artistry
-* Astrology & Astronomy
-* Athletics
+* [Astrology & Astronomy](./wiki/skills/astrology.md)
+* [Athletics](./wiki/skills/athletics.md)
 * Attunement
-* Backstabbing
+* [Backstabbing](./wiki/skills/backstabbing.md)
 * Botany
 * Burglary
-* Cosmology
-* Craftsmanship
+* [Cosmology](./wiki/skills/cosmology.md)
+* [Craftsmanship](./wiki/skills/craftsmanship.md)
 * Creativity
-* Discipline
+* [Discipline](./wiki/skills/discipline.md)
 * Divination
 * Dog training
 * Engineering
 * Falconry
-* Folklore
+* [Folklore](./wiki/skills/folklore.md)
 * Fraud
 * Geography
 * Geology
@@ -68,12 +68,12 @@ For all other political entities, her knowledge is considered to be a 3.
 * Linguistics
 * Logistics
 * Mechanics
-* Medicine
+* [Medicine](./wiki/skills/medicine.md)
 * Mercantilism
 * Mindfulness
-* Murder
+* [Murder](./wiki/skills/murder.md)
 * Natural astronomy
-* Necromancy
+* [Necromancy](./wiki/skills/necromancy.md)
 * Oceanography
 * Organization
 * Perception
@@ -90,7 +90,7 @@ For all other political entities, her knowledge is considered to be a 3.
 * Seamanship
 * Shapeshifting
 * Sure-footedness
-* Theology
+* [Theology](./wiki/skills/theology.md)
 * Transmogrification
 * Traps
 * Unarmed combat
