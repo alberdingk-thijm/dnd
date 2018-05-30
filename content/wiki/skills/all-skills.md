@@ -48,8 +48,8 @@ For all other political entities, her knowledge is considered to be a 3.
 * [Craftsmanship](./wiki/skills/craftsmanship.md)
 * Creativity
 * [Discipline](./wiki/skills/discipline.md)
-* Divination
-* Dog training
+* [Divination](./wiki/skills/divination.md)
+* [Dog training](./wiki/skills/dog-training.md)
 * Engineering
 * Falconry
 * [Folklore](./wiki/skills/folklore.md)

@@ -71,9 +71,10 @@ Skills available to rangers include:
 * **animal friendship**
 * **athletics**
 * **discipline**
+* **dog training**
+* **falconry**
 * **folklore**
 * **geography**
-* **hunting**
 * **oceanography**
 * **perception**
 * **puissance**
@@ -83,7 +84,7 @@ Skills available to rangers include:
 * **unarmed combat**
 
 At first level, rangers gain 6 knowledge points plus any intelligence bonuses.
-At first level, rangers gain 2 knowledge points in **hunting** and **scouting**.
+At first level, rangers gain 2 knowledge points in **scouting**.
 
 Rangers gain 1d6 knowledge points per level.
 
