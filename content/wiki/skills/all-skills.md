@@ -50,7 +50,7 @@ For all other political entities, her knowledge is considered to be a 3.
 * [Discipline](./wiki/skills/discipline.md)
 * [Divination](./wiki/skills/divination.md)
 * [Dog training](./wiki/skills/dog-training.md)
-* Engineering
+* [Engineering](./wiki/skills/engineering.md)
 * Falconry
 * [Folklore](./wiki/skills/folklore.md)
 * Fraud
@@ -58,7 +58,7 @@ For all other political entities, her knowledge is considered to be a 3.
 * Geology
 * Golemancy
 * Guile
-* Heraldry
+* [Heraldry](./wiki/skills/heraldry.md)
 * History
 * Hunting
 * Inspiration
@@ -76,7 +76,7 @@ For all other political entities, her knowledge is considered to be a 3.
 * [Necromancy](./wiki/skills/necromancy.md)
 * Oceanography
 * Organization
-* Perception
+* [Perception](./wiki/skills/perception.md)
 * Performance
 * Philosophy
 * Physics
