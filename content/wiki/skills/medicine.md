@@ -41,9 +41,22 @@ As the character rolls their own die for success, misdiagnosis is not considered
 
 ### Wound Binding
 
-Allows a character to **bind wounds** using bandages more quickly than others.
+Allows a character to bind wounds using bandages more quickly or more effectively than others.
+The character has the choice of a *quick binding* or a *careful binding*.
+
+#### Quick Binding
+
 The time to bind a wound is 2 rounds, +1 round per additional level of severity of the wound beyond 1 h.p.
 Hence, a wound bleeding 2 h.p. per round would take 3 rounds to bind.
+
+#### Careful Binding
+
+The binding must be done with clean bandages.
+
+The time to bind a wound is 3 rounds, +2 rounds per additional level of severity of the wound beyond 1 h.p.
+Hence, a wound bleeding 2 h.p. per round would take 5 rounds to bind.
+
+If the character completes the binding without interruption, they can restore 1 hit point of damage for each round of the binding.
 
 ## Authority Medicine
 
