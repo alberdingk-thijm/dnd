@@ -6,7 +6,7 @@ date = 2018-06-03
 # Wounds
 
 When 11 or more damage results from a single physical attack, the damaged creature is said to be *wounded*.
-In future rounds, until the wound is [*managed*](./wiki/combat/wounds#managing-wounds), the character will 'bleed' hit points each round.
+In future rounds, until the wound is [*managed*](./wiki/combat/wounds.md#managing-wounds), the character will 'bleed' hit points each round.
 
 The severity of the wound is based on the damage received.
 For every 11 points of damage, the wound will drain the character of 1 h.p.
