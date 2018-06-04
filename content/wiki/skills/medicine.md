@@ -17,7 +17,7 @@ Unskilled medics can *aid rest*.
 
 Allows a character to assist another in resting.
 
-For every point of knowledge the character has, they may attent to one resting creature.
+For every point of knowledge the character has, they may attend to one resting creature.
 
 Each creature attended heals while resting as though two levels or hit dice (if unlevelled) higher, essentially providing an additional 2 h.p. of healing per day.
 
@@ -41,7 +41,7 @@ As the character rolls their own die for success, misdiagnosis is not considered
 
 ### Wound Binding
 
-Allows a character to bind wounds using bandages more quickly or more effectively than others.
+Allows a character to [bind wounds using bandages](./wiki/combat/wounds.md#binding-wounds) more quickly or more effectively than others.
 The character has the choice of a *quick binding* or a *careful binding*.
 
 #### Quick Binding
@@ -56,7 +56,7 @@ The binding must be done with clean bandages.
 The time to bind a wound is 3 rounds, +2 rounds per additional level of severity of the wound beyond 1 h.p.
 Hence, a wound bleeding 2 h.p. per round would take 5 rounds to bind.
 
-If the character completes the binding without interruption, they can restore 1 hit point of damage for each round of the binding.
+If the character completes the binding without interruption, they can restore 1 hit point of damage received before binding began.
 
 ## Authority Medicine
 

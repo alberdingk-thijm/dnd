@@ -37,6 +37,7 @@ Note that characters trained in [medicine](./wiki/skills/medicine.md) may bind w
 
 Each wound must be bound individually.
 
+While binding is taking place, the creature will cease to take damage from the wound.
 If the binding of a wound is interrupted, the wound will reopen and the binding must be started again from the beginning.
 
 #### Bandages
